@@ -88,9 +88,13 @@ class ServidorAppApi extends Sim_entity {
       	    	sim_schedule(out4, 0.0, 1);
       	      }
       	      i++;    	  
-          } else {
-    		  sim_trace(1, "Enviando requisição para Servidor de Banco de Dados");
-    		  sim_schedule(out5, 0.0, 1);        	          	 
+          } else if(nome.equals("ServidorBancoDeDados")) {
+        	  sim_trace(1, "Enviando resposta para Servidor de Front End");
+    		  sim_schedule(outFront, 0.0, 1);    
+          } 
+    	  else {
+    		  sim_trace(1, "Enviando query para Servidor de Banco de Dados");
+    		  sim_schedule(out5, 0.0, 1);
           }    	      	  
       } catch (eduni.simjava.Sim_exception exc) {
     	  System.out.println(exc.getMessage());
