@@ -1,0 +1,1414 @@
+u: Source at 0.0: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.27037254778982
+u: ServidorAppFront at 0.0: Servidor de Aplicação Front iniciou. Delay: 6.273632017458684
+u: ServidorAppFront at 6.273632017458684: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 6.273632017458684: Servidor de login iniciou. Delay: 12.88563966724788
+u: ServidorAppFront at 19.159271684706564: Servidor de Aplicação Front iniciou. Delay: 10.615732579558582
+u: ServidorAppFront at 29.775004264265146: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 29.775004264265146: Servidor de Aplicação API iniciou. Delay: 3.779273492721697
+u: ServidorAppApi at 33.55427775698684: Requisição Enviada para o Sensor 3
+u: SensorLSD at 33.55427775698684: Sensor recebeu uma requisição. Delay: 3.1893699847130152
+u: SensorLSD at 36.74364774169986: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 36.74364774169986: Servidor de Aplicação API iniciou. Delay: 6.849602244776453
+u: ServidorAppApi at 43.593249986476316: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 43.593249986476316: Servidor de banco de dados recebeu uma requisição. Delay: 3.779273492721697
+u: Source at 47.27037254778982: Nova requisição gerada para o Servidor de aplicação front. Delay: 54.135836350656355
+u: ServidorAppFront at 47.27037254778982: Servidor de Aplicação Front iniciou. Delay: 8.413957419249439
+u: ServidorBancoDeDados at 47.372523479198016: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 55.68432996703926: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 55.68432996703926: Servidor de login iniciou. Delay: 12.88563966724788
+u: ServidorAppFront at 68.56996963428713: Servidor de Aplicação Front iniciou. Delay: 6.487648153391146
+u: ServidorAppFront at 75.05761778767828: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 75.05761778767828: Servidor de Aplicação API iniciou. Delay: 5.2927120982737605
+u: ServidorAppApi at 80.35032988595205: Requisição Enviada para o Sensor 2
+u: SensorPonto at 80.35032988595205: Sensor recebeu uma requisição. Delay: 4.069861918429225
+u: SensorPonto at 84.42019180438128: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 84.42019180438128: Servidor de Aplicação API iniciou. Delay: 3.9306057537228822
+u: ServidorAppApi at 88.35079755810416: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 88.35079755810416: Servidor de banco de dados recebeu uma requisição. Delay: 6.849602244776453
+u: ServidorBancoDeDados at 95.20039980288061: Servidor de Banco de Dados completou.
+u: Source at 101.40620889844618: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.65452414957673
+u: ServidorAppFront at 101.40620889844618: Servidor de Aplicação Front iniciou. Delay: 7.6171903068298334
+u: ServidorAppFront at 109.02339920527601: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 109.02339920527601: Servidor de login iniciou. Delay: 18.203605061746263
+u: ServidorAppFront at 127.22700426702227: Servidor de Aplicação Front iniciou. Delay: 8.262315288043464
+u: ServidorAppFront at 135.48931955506572: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 135.48931955506572: Servidor de Aplicação API iniciou. Delay: 4.7293126700554335
+u: ServidorAppApi at 140.21863222512115: Requisição Enviada para o Sensor 1
+u: SensorLCC at 140.21863222512115: Sensor recebeu uma requisição. Delay: 4.273632017458684
+u: SensorLCC at 144.49226424257984: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 144.49226424257984: Servidor de Aplicação API iniciou. Delay: 5.185484918984436
+u: ServidorAppApi at 149.67774916156426: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 149.67774916156426: Servidor de banco de dados recebeu uma requisição. Delay: 5.2927120982737605
+u: Source at 152.0607330480229: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.60876177057721
+u: ServidorAppFront at 152.0607330480229: Servidor de Aplicação Front iniciou. Delay: 6.0835569919632135
+u: ServidorBancoDeDados at 154.97046125983803: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 158.14429003998612: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 158.14429003998612: Servidor de login iniciou. Delay: 15.506992226200246
+u: ServidorAppFront at 173.65128226618637: Servidor de Aplicação Front iniciou. Delay: 6.897527958191134
+u: ServidorAppFront at 180.54881022437752: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 180.54881022437752: Servidor de Aplicação API iniciou. Delay: 3.644870153259643
+u: ServidorAppApi at 184.19368037763715: Requisição Enviada para o Sensor 1
+u: SensorLCC at 184.19368037763715: Sensor recebeu uma requisição. Delay: 8.615732579558582
+u: SensorLCC at 192.80941295719572: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 192.80941295719572: Servidor de Aplicação API iniciou. Delay: 4.220434543168372
+u: ServidorAppApi at 197.0298475003641: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 197.0298475003641: Servidor de banco de dados recebeu uma requisição. Delay: 3.9306057537228822
+u: Source at 199.66949481860013: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.394724729596035
+u: ServidorAppFront at 199.66949481860013: Servidor de Aplicação Front iniciou. Delay: 8.503924954635782
+u: ServidorBancoDeDados at 200.96045325408699: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 208.1734197732359: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 208.1734197732359: Servidor de login iniciou. Delay: 13.147754832126207
+u: ServidorAppFront at 221.3211746053621: Servidor de Aplicação Front iniciou. Delay: 11.508971957044206
+u: ServidorAppFront at 232.8301465624063: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 232.8301465624063: Servidor de Aplicação API iniciou. Delay: 5.356328752632084
+u: ServidorAppApi at 238.1864753150384: Requisição Enviada para o Sensor 1
+u: SensorLCC at 238.1864753150384: Sensor recebeu uma requisição. Delay: 6.413957419249438
+u: SensorLCC at 244.60043273428784: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 244.60043273428784: Servidor de Aplicação API iniciou. Delay: 7.4812178658193895
+u: Source at 249.06421954819615: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.41475688765024
+u: ServidorAppFront at 249.06421954819615: Servidor de Aplicação Front iniciou. Delay: 8.272943131952117
+u: ServidorAppApi at 252.08165060010722: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 252.08165060010722: Servidor de banco de dados recebeu uma requisição. Delay: 4.7293126700554335
+u: ServidorBancoDeDados at 256.81096327016263: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 257.33716268014825: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 257.33716268014825: Servidor de login iniciou. Delay: 18.203605061746263
+u: ServidorAppFront at 275.5407677418945: Servidor de Aplicação Front iniciou. Delay: 8.884898033014757
+u: ServidorAppFront at 284.42566577490925: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 284.42566577490925: Servidor de Aplicação API iniciou. Delay: 5.192999939481636
+u: ServidorAppApi at 289.6186657143909: Requisição Enviada para o Sensor 3
+u: SensorLSD at 289.6186657143909: Sensor recebeu uma requisição. Delay: 7.743403473887975
+u: SensorLSD at 297.36206918827884: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 297.36206918827884: Servidor de Aplicação API iniciou. Delay: 5.625717399803372
+u: Source at 299.4789764358464: Nova requisição gerada para o Servidor de aplicação front. Delay: 46.96983754434969
+u: ServidorAppFront at 299.4789764358464: Servidor de Aplicação Front iniciou. Delay: 4.6551487096821225
+u: ServidorAppApi at 302.9877865880822: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 302.9877865880822: Servidor de banco de dados recebeu uma requisição. Delay: 5.185484918984436
+u: ServidorAppFront at 304.1341251455285: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 304.1341251455285: Servidor de login iniciou. Delay: 14.531155791570852
+u: ServidorBancoDeDados at 308.17327150706666: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 318.66528093709934: Servidor de Aplicação Front iniciou. Delay: 6.003502787574161
+u: ServidorAppFront at 324.6687837246735: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 324.6687837246735: Servidor de Aplicação API iniciou. Delay: 2.6348329705556557
+u: ServidorAppApi at 327.30361669522915: Requisição Enviada para o Sensor 2
+u: SensorPonto at 327.30361669522915: Sensor recebeu uma requisição. Delay: 8.924477929426933
+u: SensorPonto at 336.2280946246561: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 336.2280946246561: Servidor de Aplicação API iniciou. Delay: 3.5882632824736502
+u: ServidorAppApi at 339.8163579071297: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 339.8163579071297: Servidor de banco de dados recebeu uma requisição. Delay: 3.644870153259643
+u: ServidorBancoDeDados at 343.4612280603894: Servidor de Banco de Dados completou.
+u: Source at 346.44881398019606: Nova requisição gerada para o Servidor de aplicação front. Delay: 48.2568386456138
+u: ServidorAppFront at 346.44881398019606: Servidor de Aplicação Front iniciou. Delay: 8.521592776371099
+u: ServidorAppFront at 354.9704067565672: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 354.9704067565672: Servidor de login iniciou. Delay: 15.506992226200246
+u: ServidorAppFront at 370.4773989827674: Servidor de Aplicação Front iniciou. Delay: 7.223539930597965
+u: ServidorAppFront at 377.70093891336535: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 377.70093891336535: Servidor de Aplicação API iniciou. Delay: 5.368821789189922
+u: ServidorAppApi at 383.06976070255524: Requisição Enviada para o Sensor 3
+u: SensorLSD at 383.06976070255524: Sensor recebeu uma requisição. Delay: 5.434162204074491
+u: SensorLSD at 388.5039229066297: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 388.5039229066297: Servidor de Aplicação API iniciou. Delay: 4.450959819605243
+u: ServidorAppApi at 392.954882726235: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 392.954882726235: Servidor de banco de dados recebeu uma requisição. Delay: 4.220434543168372
+u: Source at 394.7056526258099: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.796775313223044
+u: ServidorAppFront at 394.7056526258099: Servidor de Aplicação Front iniciou. Delay: 6.62929269950499
+u: ServidorBancoDeDados at 397.17531726940337: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 401.3349453253149: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 401.3349453253149: Servidor de login iniciou. Delay: 15.32126930371884
+u: ServidorAppFront at 416.65621462903374: Servidor de Aplicação Front iniciou. Delay: 9.314189785565969
+u: ServidorAppFront at 425.9704044145997: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 425.9704044145997: Servidor de Aplicação API iniciou. Delay: 4.030763572798072
+u: ServidorAppApi at 430.0011679873978: Requisição Enviada para o Sensor 2
+u: SensorPonto at 430.0011679873978: Sensor recebeu uma requisição. Delay: 6.462818464616062
+u: SensorPonto at 436.4639864520139: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 436.4639864520139: Servidor de Aplicação API iniciou. Delay: 5.929272509139791
+u: ServidorAppApi at 442.39325896115366: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 442.39325896115366: Servidor de banco de dados recebeu uma requisição. Delay: 5.356328752632084
+u: Source at 445.50242793903294: Nova requisição gerada para o Servidor de aplicação front. Delay: 55.548171814959105
+u: ServidorAppFront at 445.50242793903294: Servidor de Aplicação Front iniciou. Delay: 8.836562134052498
+u: ServidorBancoDeDados at 447.74958771378573: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 454.3389900730854: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 454.3389900730854: Servidor de login iniciou. Delay: 13.147754832126207
+u: ServidorAppFront at 467.48674490521165: Servidor de Aplicação Front iniciou. Delay: 7.977761505225
+u: ServidorAppFront at 475.4645064104366: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 475.4645064104366: Servidor de Aplicação API iniciou. Delay: 5.591538757872411
+u: ServidorAppApi at 481.056045168309: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 481.056045168309: Sensor recebeu uma requisição. Delay: 4.779273492721697
+u: SensorBiblioteca at 485.8353186610307: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 485.8353186610307: Servidor de Aplicação API iniciou. Delay: 4.984275009541215
+u: ServidorAppApi at 490.8195936705719: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 490.8195936705719: Servidor de banco de dados recebeu uma requisição. Delay: 7.4812178658193895
+u: ServidorBancoDeDados at 498.30081153639134: Servidor de Banco de Dados completou.
+u: Source at 501.05059975399206: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.43156098433428
+u: ServidorAppFront at 501.05059975399206: Servidor de Aplicação Front iniciou. Delay: 9.012228511484611
+u: ServidorAppFront at 510.0628282654767: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 510.0628282654767: Servidor de login iniciou. Delay: 12.652846254592676
+u: ServidorAppFront at 522.7156745200693: Servidor de Aplicação Front iniciou. Delay: 8.189667291885069
+u: ServidorAppFront at 530.9053418119544: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 530.9053418119544: Servidor de Aplicação API iniciou. Delay: 5.7157536445811346
+u: ServidorAppApi at 536.6210954565355: Requisição Enviada para o Sensor 1
+u: SensorLCC at 536.6210954565355: Sensor recebeu uma requisição. Delay: 4.487648153391146
+u: SensorLCC at 541.1087436099266: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 541.1087436099266: Servidor de Aplicação API iniciou. Delay: 5.1341150282612205
+u: ServidorAppApi at 546.2428586381878: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 546.2428586381878: Servidor de banco de dados recebeu uma requisição. Delay: 5.192999939481636
+u: ServidorBancoDeDados at 551.4358585776695: Servidor de Banco de Dados completou.
+u: Source at 551.4821607383263: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.39914664066475
+u: ServidorAppFront at 551.4821607383263: Servidor de Aplicação Front iniciou. Delay: 10.1944916644939
+u: ServidorAppFront at 561.6766524028202: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 561.6766524028202: Servidor de login iniciou. Delay: 14.531155791570852
+u: ServidorAppFront at 576.2078081943911: Servidor de Aplicação Front iniciou. Delay: 9.119166676370268
+u: ServidorAppFront at 585.3269748707613: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 585.3269748707613: Servidor de Aplicação API iniciou. Delay: 6.55173993722099
+u: ServidorAppApi at 591.8787148079823: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 591.8787148079823: Sensor recebeu uma requisição. Delay: 7.849602244776453
+u: SensorBiblioteca at 599.7283170527587: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 599.7283170527587: Servidor de Aplicação API iniciou. Delay: 5.791370346139427
+u: Source at 602.8813073789911: Nova requisição gerada para o Servidor de aplicação front. Delay: 44.7113257440212
+u: ServidorAppFront at 602.8813073789911: Servidor de Aplicação Front iniciou. Delay: 10.413162819177701
+u: ServidorAppApi at 605.5196873988981: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 605.5196873988981: Servidor de banco de dados recebeu uma requisição. Delay: 5.625717399803372
+u: ServidorBancoDeDados at 611.1454047987015: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 613.2944701981688: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 613.2944701981688: Servidor de login iniciou. Delay: 13.649753020941978
+u: ServidorAppFront at 626.9442232191108: Servidor de Aplicação Front iniciou. Delay: 8.115794584848663
+u: ServidorAppFront at 635.0600178039595: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 635.0600178039595: Servidor de Aplicação API iniciou. Delay: 6.706363793547799
+u: ServidorAppApi at 641.7663815975072: Requisição Enviada para o Sensor 2
+u: SensorPonto at 641.7663815975072: Sensor recebeu uma requisição. Delay: 4.309139232542634
+u: SensorPonto at 646.0755208300499: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 646.0755208300499: Servidor de Aplicação API iniciou. Delay: 5.081879136171171
+u: Source at 647.5926331230123: Nova requisição gerada para o Servidor de aplicação front. Delay: 46.84326073327866
+u: ServidorAppFront at 647.5926331230123: Servidor de Aplicação Front iniciou. Delay: 8.532496504366984
+u: ServidorAppApi at 651.1573999662211: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 651.1573999662211: Servidor de banco de dados recebeu uma requisição. Delay: 2.6348329705556557
+u: ServidorBancoDeDados at 653.7922329367767: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 656.1251296273794: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 656.1251296273794: Servidor de login iniciou. Delay: 15.617179503756411
+u: ServidorAppFront at 671.7423091311358: Servidor de Aplicação Front iniciou. Delay: 10.5192762410733
+u: ServidorAppFront at 682.2615853722091: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 682.2615853722091: Servidor de Aplicação API iniciou. Delay: 5.376531889196027
+u: ServidorAppApi at 687.6381172614051: Requisição Enviada para o Sensor 2
+u: SensorPonto at 687.6381172614051: Sensor recebeu uma requisição. Delay: 5.572005751812836
+u: SensorPonto at 693.210123013218: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 693.210123013218: Servidor de Aplicação API iniciou. Delay: 6.781397313745085
+u: Source at 694.4358938562909: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.824710592211765
+u: ServidorAppFront at 694.4358938562909: Servidor de Aplicação Front iniciou. Delay: 11.04815300557718
+u: ServidorAppApi at 699.991520326963: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 699.991520326963: Servidor de banco de dados recebeu uma requisição. Delay: 3.5882632824736502
+u: ServidorBancoDeDados at 703.5797836094367: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 705.4840468618681: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 705.4840468618681: Servidor de login iniciou. Delay: 19.2975954082468
+u: ServidorAppFront at 724.781642270115: Servidor de Aplicação Front iniciou. Delay: 8.708127833876798
+u: ServidorAppFront at 733.4897701039918: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 733.4897701039918: Servidor de Aplicação API iniciou. Delay: 7.155369660337779
+u: ServidorAppApi at 740.6451397643295: Requisição Enviada para o Sensor 2
+u: SensorPonto at 740.6451397643295: Sensor recebeu uma requisição. Delay: 6.293277407801312
+u: Source at 745.2606044485027: Nova requisição gerada para o Servidor de aplicação front. Delay: 48.77230883425858
+u: ServidorAppFront at 745.2606044485027: Servidor de Aplicação Front iniciou. Delay: 8.17696970286926
+u: SensorPonto at 746.9384171721308: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 746.9384171721308: Servidor de Aplicação API iniciou. Delay: 5.500721993281226
+u: ServidorAppApi at 752.439139165412: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 752.439139165412: Servidor de banco de dados recebeu uma requisição. Delay: 5.368821789189922
+u: ServidorAppFront at 753.437574151372: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 753.437574151372: Servidor de login iniciou. Delay: 15.32126930371884
+u: ServidorBancoDeDados at 757.807960954602: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 768.7588434550909: Servidor de Aplicação Front iniciou. Delay: 7.77573708367618
+u: ServidorAppFront at 776.534580538767: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 776.534580538767: Servidor de Aplicação API iniciou. Delay: 5.125136476963422
+u: ServidorAppApi at 781.6597170157305: Requisição Enviada para o Sensor 3
+u: SensorLSD at 781.6597170157305: Sensor recebeu uma requisição. Delay: 3.413832001730166
+u: SensorLSD at 785.0735490174607: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 785.0735490174607: Servidor de Aplicação API iniciou. Delay: 4.841422171098755
+u: ServidorAppApi at 789.9149711885594: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 789.9149711885594: Servidor de banco de dados recebeu uma requisição. Delay: 4.450959819605243
+u: Source at 794.0329132827612: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.832721462507465
+u: ServidorAppFront at 794.0329132827612: Servidor de Aplicação Front iniciou. Delay: 8.81161148310867
+u: ServidorBancoDeDados at 794.3659310081647: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 802.8445247658699: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 802.8445247658699: Servidor de login iniciou. Delay: 12.652846254592676
+u: ServidorAppFront at 815.4973710204625: Servidor de Aplicação Front iniciou. Delay: 7.123647369863602
+u: ServidorAppFront at 822.6210183903262: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 822.6210183903262: Servidor de Aplicação API iniciou. Delay: 5.573895983395011
+u: ServidorAppApi at 828.1949143737212: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 828.1949143737212: Sensor recebeu uma requisição. Delay: 6.2927120982737605
+u: SensorBiblioteca at 834.487626471995: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 834.487626471995: Servidor de Aplicação API iniciou. Delay: 4.380325112519887
+u: ServidorAppApi at 838.8679515845149: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 838.8679515845149: Servidor de banco de dados recebeu uma requisição. Delay: 4.030763572798072
+u: Source at 841.8656347452687: Nova requisição gerada para o Servidor de aplicação front. Delay: 52.077916500058365
+u: ServidorAppFront at 841.8656347452687: Servidor de Aplicação Front iniciou. Delay: 8.953436240286763
+u: ServidorBancoDeDados at 842.898715157313: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 850.8190709855555: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 850.8190709855555: Servidor de login iniciou. Delay: 13.649753020941978
+u: ServidorAppFront at 864.4688240064975: Servidor de Aplicação Front iniciou. Delay: 6.504615829362876
+u: ServidorAppFront at 870.9734398358603: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 870.9734398358603: Servidor de Aplicação API iniciou. Delay: 5.674181230935776
+u: ServidorAppApi at 876.6476210667961: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 876.6476210667961: Sensor recebeu uma requisição. Delay: 4.930605753722882
+u: SensorBiblioteca at 881.5782268205189: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 881.5782268205189: Servidor de Aplicação API iniciou. Delay: 3.9426037124634687
+u: ServidorAppApi at 885.5208305329824: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 885.5208305329824: Servidor de banco de dados recebeu uma requisição. Delay: 5.929272509139791
+u: ServidorBancoDeDados at 891.4501030421221: Servidor de Banco de Dados completou.
+u: Source at 893.9435512453271: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.322720873928496
+u: ServidorAppFront at 893.9435512453271: Servidor de Aplicação Front iniciou. Delay: 7.6854100432963985
+u: ServidorAppFront at 901.6289612886235: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 901.6289612886235: Servidor de login iniciou. Delay: 15.617179503756411
+u: ServidorAppFront at 917.24614079238: Servidor de Aplicação Front iniciou. Delay: 7.549992570173166
+u: ServidorAppFront at 924.7961333625531: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 924.7961333625531: Servidor de Aplicação API iniciou. Delay: 4.777551308321701
+u: ServidorAppApi at 929.5736846708747: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 929.5736846708747: Sensor recebeu uma requisição. Delay: 5.7293126700554335
+u: SensorBiblioteca at 935.3029973409301: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 935.3029973409301: Servidor de Aplicação API iniciou. Delay: 4.681796694785116
+u: ServidorAppApi at 939.9847940357153: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 939.9847940357153: Servidor de banco de dados recebeu uma requisição. Delay: 5.591538757872411
+u: Source at 945.2662721192555: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.96483785238862
+u: ServidorAppFront at 945.2662721192555: Servidor de Aplicação Front iniciou. Delay: 6.15774959798409
+u: ServidorBancoDeDados at 945.5763327935877: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 951.4240217172396: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 951.4240217172396: Servidor de login iniciou. Delay: 15.334285701039912
+u: ServidorAppFront at 966.7583074182795: Servidor de Aplicação Front iniciou. Delay: 6.8474676578121
+u: ServidorAppFront at 973.6057750760916: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 973.6057750760916: Servidor de Aplicação API iniciou. Delay: 3.6973322480909063
+u: ServidorAppApi at 977.3031073241825: Requisição Enviada para o Sensor 1
+u: SensorLCC at 977.3031073241825: Sensor recebeu uma requisição. Delay: 5.6171903068298334
+u: SensorLCC at 982.9202976310123: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 982.9202976310123: Servidor de Aplicação API iniciou. Delay: 4.185036565302121
+u: ServidorAppApi at 987.1053341963144: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 987.1053341963144: Servidor de banco de dados recebeu uma requisição. Delay: 4.984275009541215
+u: ServidorBancoDeDados at 992.0896092058556: Servidor de Banco de Dados completou.
+u: Source at 995.2311099716442: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.60047380442664
+u: ServidorAppFront at 995.2311099716442: Servidor de Aplicação Front iniciou. Delay: 8.835433171416884
+u: ServidorAppFront at 1004.066543143061: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 1004.066543143061: Servidor de login iniciou. Delay: 19.2975954082468
+u: ServidorAppFront at 1023.3641385513079: Servidor de Aplicação Front iniciou. Delay: 7.584045297646494
+u: ServidorAppFront at 1030.9481838489544: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1030.9481838489544: Servidor de Aplicação API iniciou. Delay: 5.590740460737062
+u: ServidorAppApi at 1036.5389243096915: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 1036.5389243096915: Sensor recebeu uma requisição. Delay: 6.185484918984436
+u: SensorBiblioteca at 1042.724409228676: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1042.724409228676: Servidor de Aplicação API iniciou. Delay: 4.705875609299404
+u: Source at 1046.8315837760708: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.29989031999639
+u: ServidorAppFront at 1046.8315837760708: Servidor de Aplicação Front iniciou. Delay: 10.00463347927879
+u: ServidorAppApi at 1047.4302848379755: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1047.4302848379755: Servidor de banco de dados recebeu uma requisição. Delay: 5.7157536445811346
+u: ServidorBancoDeDados at 1053.1460384825566: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1056.8362172553495: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 1056.8362172553495: Servidor de login iniciou. Delay: 15.334285701039912
+u: ServidorAppFront at 1072.1705029563896: Servidor de Aplicação Front iniciou. Delay: 8.189354264318892
+u: ServidorAppFront at 1080.3598572207084: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1080.3598572207084: Servidor de Aplicação API iniciou. Delay: 6.417489926991615
+u: ServidorAppApi at 1086.7773471477: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 1086.7773471477: Sensor recebeu uma requisição. Delay: 4.644870153259642
+u: SensorBiblioteca at 1091.4222173009598: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1091.4222173009598: Servidor de Aplicação API iniciou. Delay: 5.133893684346478
+u: ServidorAppApi at 1096.5561109853063: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1096.5561109853063: Servidor de banco de dados recebeu uma requisição. Delay: 5.1341150282612205
+u: Source at 1097.1314740960672: Nova requisição gerada para o Servidor de aplicação front. Delay: 53.46979598302739
+u: ServidorAppFront at 1097.1314740960672: Servidor de Aplicação Front iniciou. Delay: 8.29368685688706
+u: ServidorBancoDeDados at 1101.6902260135676: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1105.4251609529542: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 1105.4251609529542: Servidor de login iniciou. Delay: 16.08377432763933
+u: ServidorAppFront at 1121.5089352805935: Servidor de Aplicação Front iniciou. Delay: 8.425745345039001
+u: ServidorAppFront at 1129.9346806256326: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1129.9346806256326: Servidor de Aplicação API iniciou. Delay: 5.2076679680502025
+u: ServidorAppApi at 1135.1423485936828: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 1135.1423485936828: Sensor recebeu uma requisição. Delay: 5.220434543168372
+u: SensorBiblioteca at 1140.362783136851: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1140.362783136851: Servidor de Aplicação API iniciou. Delay: 5.301047420535684
+u: ServidorAppApi at 1145.6638305573867: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1145.6638305573867: Servidor de banco de dados recebeu uma requisição. Delay: 6.55173993722099
+u: Source at 1150.6012700790945: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.7695578893453
+u: ServidorAppFront at 1150.6012700790945: Servidor de Aplicação Front iniciou. Delay: 8.194866351042233
+u: ServidorBancoDeDados at 1152.2155704946078: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1158.7961364301368: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 1158.7961364301368: Servidor de login iniciou. Delay: 16.08377432763933
+u: ServidorAppFront at 1174.879910757776: Servidor de Aplicação Front iniciou. Delay: 10.055352990745726
+u: ServidorAppFront at 1184.9352637485217: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1184.9352637485217: Servidor de Aplicação API iniciou. Delay: 5.13779131824704
+u: ServidorAppApi at 1190.0730550667688: Requisição Enviada para o Sensor 2
+u: SensorPonto at 1190.0730550667688: Sensor recebeu uma requisição. Delay: 3.8573515795127844
+u: SensorPonto at 1193.9304066462817: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1193.9304066462817: Servidor de Aplicação API iniciou. Delay: 6.453354037488354
+u: ServidorAppApi at 1200.38376068377: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1200.38376068377: Servidor de banco de dados recebeu uma requisição. Delay: 5.791370346139427
+u: Source at 1202.37082796844: Nova requisição gerada para o Servidor de aplicação front. Delay: 53.815545436717294
+u: ServidorAppFront at 1202.37082796844: Servidor de Aplicação Front iniciou. Delay: 6.484325734409705
+u: ServidorBancoDeDados at 1206.1751310299096: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1208.8551537028495: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 1208.8551537028495: Servidor de login iniciou. Delay: 10.903410536615642
+u: ServidorAppFront at 1219.7585642394652: Servidor de Aplicação Front iniciou. Delay: 5.209381741530635
+u: ServidorAppFront at 1224.9679459809959: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1224.9679459809959: Servidor de Aplicação API iniciou. Delay: 3.9282564487311618
+u: ServidorAppApi at 1228.896202429727: Requisição Enviada para o Sensor 2
+u: SensorPonto at 1228.896202429727: Sensor recebeu uma requisição. Delay: 4.767398785611192
+u: SensorPonto at 1233.6636012153383: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1233.6636012153383: Servidor de Aplicação API iniciou. Delay: 3.026734905733318
+u: ServidorAppApi at 1236.6903361210716: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1236.6903361210716: Servidor de banco de dados recebeu uma requisição. Delay: 6.706363793547799
+u: ServidorBancoDeDados at 1243.3966999146194: Servidor de Banco de Dados completou.
+u: Source at 1256.1863734051572: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.1830873144177
+u: ServidorAppFront at 1256.1863734051572: Servidor de Aplicação Front iniciou. Delay: 8.308453147063787
+u: ServidorAppFront at 1264.494826552221: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 1264.494826552221: Servidor de login iniciou. Delay: 12.55480027833385
+u: ServidorAppFront at 1277.0496268305549: Servidor de Aplicação Front iniciou. Delay: 9.066520648871851
+u: ServidorAppFront at 1286.1161474794267: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1286.1161474794267: Servidor de Aplicação API iniciou. Delay: 5.218109311967135
+u: ServidorAppApi at 1291.3342567913937: Requisição Enviada para o Sensor 1
+u: SensorLCC at 1291.3342567913937: Sensor recebeu uma requisição. Delay: 6.262315288043464
+u: SensorLCC at 1297.5965720794372: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1297.5965720794372: Servidor de Aplicação API iniciou. Delay: 5.754143983092763
+u: ServidorAppApi at 1303.35071606253: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1303.35071606253: Servidor de banco de dados recebeu uma requisição. Delay: 5.081879136171171
+u: Source at 1306.3694607195748: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.84195089993874
+u: ServidorAppFront at 1306.3694607195748: Servidor de Aplicação Front iniciou. Delay: 10.166495282081067
+u: ServidorBancoDeDados at 1308.4325951987012: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1316.535956001656: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 1316.535956001656: Servidor de login iniciou. Delay: 15.638818077815403
+u: ServidorAppFront at 1332.1747740794713: Servidor de Aplicação Front iniciou. Delay: 9.523408911801495
+u: ServidorAppFront at 1341.6981829912727: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1341.6981829912727: Servidor de Aplicação API iniciou. Delay: 6.531943505368185
+u: ServidorAppApi at 1348.2301264966409: Requisição Enviada para o Sensor 2
+u: SensorPonto at 1348.2301264966409: Sensor recebeu uma requisição. Delay: 6.563405227062052
+u: SensorPonto at 1354.793531723703: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1354.793531723703: Servidor de Aplicação API iniciou. Delay: 6.077212772054857
+u: Source at 1357.2114116195135: Nova requisição gerada para o Servidor de aplicação front. Delay: 53.98332548846953
+u: ServidorAppFront at 1357.2114116195135: Servidor de Aplicação Front iniciou. Delay: 6.145641818277738
+u: ServidorAppApi at 1360.870744495758: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1360.870744495758: Servidor de banco de dados recebeu uma requisição. Delay: 5.376531889196027
+u: ServidorAppFront at 1363.3570534377911: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 1363.3570534377911: Servidor de login iniciou. Delay: 14.049034512159501
+u: ServidorBancoDeDados at 1366.247276384954: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1377.4060879499507: Servidor de Aplicação Front iniciou. Delay: 7.2047669887110715
+u: ServidorAppFront at 1384.6108549386618: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1384.6108549386618: Servidor de Aplicação API iniciou. Delay: 3.6887707549554327
+u: ServidorAppApi at 1388.2996256936171: Requisição Enviada para o Sensor 2
+u: SensorPonto at 1388.2996256936171: Sensor recebeu uma requisição. Delay: 9.923149913545661
+u: SensorPonto at 1398.2227756071627: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1398.2227756071627: Servidor de Aplicação API iniciou. Delay: 4.4376853450942
+u: ServidorAppApi at 1402.660460952257: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1402.660460952257: Servidor de banco de dados recebeu uma requisição. Delay: 6.781397313745085
+u: ServidorBancoDeDados at 1409.441858266002: Servidor de Banco de Dados completou.
+u: Source at 1411.194737107983: Nova requisição gerada para o Servidor de aplicação front. Delay: 54.81955307715591
+u: ServidorAppFront at 1411.194737107983: Servidor de Aplicação Front iniciou. Delay: 8.05417245001178
+u: ServidorAppFront at 1419.2489095579947: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 1419.2489095579947: Servidor de login iniciou. Delay: 10.903410536615642
+u: ServidorAppFront at 1430.1523200946103: Servidor de Aplicação Front iniciou. Delay: 5.914715390661964
+u: ServidorAppFront at 1436.0670354852723: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1436.0670354852723: Servidor de Aplicação API iniciou. Delay: 5.038305706756819
+u: ServidorAppApi at 1441.105341192029: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 1441.105341192029: Sensor recebeu uma requisição. Delay: 6.356328752632084
+u: SensorBiblioteca at 1447.4616699446613: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1447.4616699446613: Servidor de Aplicação API iniciou. Delay: 3.525481112033135
+u: ServidorAppApi at 1450.9871510566943: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1450.9871510566943: Servidor de banco de dados recebeu uma requisição. Delay: 7.155369660337779
+u: ServidorBancoDeDados at 1458.142520717032: Servidor de Banco de Dados completou.
+u: Source at 1466.0142901851389: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.119648414806015
+u: ServidorAppFront at 1466.0142901851389: Servidor de Aplicação Front iniciou. Delay: 6.539660056420723
+u: ServidorAppFront at 1472.5539502415595: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 1472.5539502415595: Servidor de login iniciou. Delay: 12.55480027833385
+u: ServidorAppFront at 1485.1087505198934: Servidor de Aplicação Front iniciou. Delay: 8.199232587812622
+u: ServidorAppFront at 1493.3079831077061: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1493.3079831077061: Servidor de Aplicação API iniciou. Delay: 3.967383723057513
+u: ServidorAppApi at 1497.2753668307637: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 1497.2753668307637: Sensor recebeu uma requisição. Delay: 8.481217865819389
+u: SensorBiblioteca at 1505.756584696583: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1505.756584696583: Servidor de Aplicação API iniciou. Delay: 5.140878713875649
+u: ServidorAppApi at 1510.8974634104588: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1510.8974634104588: Servidor de banco de dados recebeu uma requisição. Delay: 5.500721993281226
+u: ServidorBancoDeDados at 1516.3981854037402: Servidor de Banco de Dados completou.
+u: Source at 1517.133938599945: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.27981366895505
+u: ServidorAppFront at 1517.133938599945: Servidor de Aplicação Front iniciou. Delay: 7.461150132881694
+u: ServidorAppFront at 1524.5950887328265: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 1524.5950887328265: Servidor de login iniciou. Delay: 13.321233263539728
+u: ServidorAppFront at 1537.9163219963662: Servidor de Aplicação Front iniciou. Delay: 9.810639083172303
+u: ServidorAppFront at 1547.7269610795383: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1547.7269610795383: Servidor de Aplicação API iniciou. Delay: 4.618975604919176
+u: ServidorAppApi at 1552.3459366844575: Requisição Enviada para o Sensor 2
+u: SensorPonto at 1552.3459366844575: Sensor recebeu uma requisição. Delay: 6.305159698518313
+u: SensorPonto at 1558.6510963829758: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1558.6510963829758: Servidor de Aplicação API iniciou. Delay: 6.280315173992528
+u: ServidorAppApi at 1564.9314115569682: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1564.9314115569682: Servidor de banco de dados recebeu uma requisição. Delay: 5.125136476963422
+u: Source at 1567.4137522689: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.64540919485248
+u: ServidorAppFront at 1567.4137522689: Servidor de Aplicação Front iniciou. Delay: 8.912726776866869
+u: ServidorBancoDeDados at 1570.0565480339317: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1576.326479045767: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 1576.326479045767: Servidor de login iniciou. Delay: 16.609547199907134
+u: ServidorAppFront at 1592.9360262456742: Servidor de Aplicação Front iniciou. Delay: 6.87681979423053
+u: ServidorAppFront at 1599.8128460399048: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1599.8128460399048: Servidor de Aplicação API iniciou. Delay: 5.645395293293104
+u: ServidorAppApi at 1605.458241333198: Requisição Enviada para o Sensor 2
+u: SensorPonto at 1605.458241333198: Sensor recebeu uma requisição. Delay: 6.989346077488425
+u: SensorPonto at 1612.4475874106863: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1612.4475874106863: Servidor de Aplicação API iniciou. Delay: 4.2057916600059055
+u: ServidorAppApi at 1616.6533790706922: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1616.6533790706922: Servidor de banco de dados recebeu uma requisição. Delay: 4.841422171098755
+u: Source at 1617.0591614637524: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.28327043088534
+u: ServidorAppFront at 1617.0591614637524: Servidor de Aplicação Front iniciou. Delay: 8.277824635887956
+u: ServidorBancoDeDados at 1621.4948012417908: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1625.3369860996404: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 1625.3369860996404: Servidor de login iniciou. Delay: 15.638818077815403
+u: ServidorAppFront at 1640.9758041774558: Servidor de Aplicação Front iniciou. Delay: 6.578435774712714
+u: ServidorAppFront at 1647.5542399521685: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1647.5542399521685: Servidor de Aplicação API iniciou. Delay: 5.196451684017058
+u: ServidorAppApi at 1652.7506916361856: Requisição Enviada para o Sensor 3
+u: SensorLSD at 1652.7506916361856: Sensor recebeu uma requisição. Delay: 4.598505806637829
+u: SensorLSD at 1657.3491974428234: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1657.3491974428234: Servidor de Aplicação API iniciou. Delay: 3.9948022964071592
+u: ServidorAppApi at 1661.3439997392306: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1661.3439997392306: Servidor de banco de dados recebeu uma requisição. Delay: 5.573895983395011
+u: ServidorBancoDeDados at 1666.9178957226256: Servidor de Banco de Dados completou.
+u: Source at 1668.3424318946377: Nova requisição gerada para o Servidor de aplicação front. Delay: 48.614364827644934
+u: ServidorAppFront at 1668.3424318946377: Servidor de Aplicação Front iniciou. Delay: 9.575397977690585
+u: ServidorAppFront at 1677.9178298723282: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 1677.9178298723282: Servidor de login iniciou. Delay: 14.049034512159501
+u: ServidorAppFront at 1691.9668643844877: Servidor de Aplicação Front iniciou. Delay: 6.775851229400544
+u: ServidorAppFront at 1698.7427156138883: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1698.7427156138883: Servidor de Aplicação API iniciou. Delay: 6.1139745930925855
+u: ServidorAppApi at 1704.8566902069808: Requisição Enviada para o Sensor 3
+u: SensorLSD at 1704.8566902069808: Sensor recebeu uma requisição. Delay: 5.275118595110287
+u: SensorLSD at 1710.1318088020912: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1710.1318088020912: Servidor de Aplicação API iniciou. Delay: 4.1343961031279495
+u: ServidorAppApi at 1714.2662049052192: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1714.2662049052192: Servidor de banco de dados recebeu uma requisição. Delay: 4.380325112519887
+u: Source at 1716.9567967222827: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.50751506152688
+u: ServidorAppFront at 1716.9567967222827: Servidor de Aplicação Front iniciou. Delay: 7.486807793678247
+u: ServidorBancoDeDados at 1718.646530017739: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1724.443604515961: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 1724.443604515961: Servidor de login iniciou. Delay: 13.321233263539728
+u: ServidorAppFront at 1737.7648377795006: Servidor de Aplicação Front iniciou. Delay: 7.789747174581977
+u: ServidorAppFront at 1745.5545849540827: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1745.5545849540827: Servidor de Aplicação API iniciou. Delay: 4.637118310857803
+u: ServidorAppApi at 1750.1917032649405: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 1750.1917032649405: Sensor recebeu uma requisição. Delay: 6.192999939481636
+u: SensorBiblioteca at 1756.384703204422: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1756.384703204422: Servidor de Aplicação API iniciou. Delay: 4.851328801383284
+u: ServidorAppApi at 1761.2360320058053: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1761.2360320058053: Servidor de banco de dados recebeu uma requisição. Delay: 5.674181230935776
+u: ServidorBancoDeDados at 1766.9102132367411: Servidor de Banco de Dados completou.
+u: Source at 1768.4643117838095: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.6355900219124
+u: ServidorAppFront at 1768.4643117838095: Servidor de Aplicação Front iniciou. Delay: 8.695984263038476
+u: ServidorAppFront at 1777.160296046848: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 1777.160296046848: Servidor de login iniciou. Delay: 16.0245751832812
+u: ServidorAppFront at 1793.1848712301294: Servidor de Aplicação Front iniciou. Delay: 7.091054811839981
+u: ServidorAppFront at 1800.2759260419693: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1800.2759260419693: Servidor de Aplicação API iniciou. Delay: 5.492135191993627
+u: ServidorAppApi at 1805.768061233963: Requisição Enviada para o Sensor 2
+u: SensorPonto at 1805.768061233963: Sensor recebeu uma requisição. Delay: 2.260342570110671
+u: SensorPonto at 1808.0284038040736: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1808.0284038040736: Servidor de Aplicação API iniciou. Delay: 4.357278693725168
+u: ServidorAppApi at 1812.3856824977988: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1812.3856824977988: Servidor de banco de dados recebeu uma requisição. Delay: 3.9426037124634687
+u: Source at 1816.0999018057219: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.502589603901434
+u: ServidorAppFront at 1816.0999018057219: Servidor de Aplicação Front iniciou. Delay: 5.573982589953449
+u: ServidorBancoDeDados at 1816.3282862102624: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1821.6738843956753: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 1821.6738843956753: Servidor de login iniciou. Delay: 16.609547199907134
+u: ServidorAppFront at 1838.2834315955824: Servidor de Aplicação Front iniciou. Delay: 7.818020600724704
+u: ServidorAppFront at 1846.101452196307: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1846.101452196307: Servidor de Aplicação API iniciou. Delay: 3.2845466380794583
+u: ServidorAppApi at 1849.3859988343866: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 1849.3859988343866: Sensor recebeu uma requisição. Delay: 6.625717399803372
+u: SensorBiblioteca at 1856.0117162341899: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1856.0117162341899: Servidor de Aplicação API iniciou. Delay: 4.871321132736185
+u: ServidorAppApi at 1860.8830373669261: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1860.8830373669261: Servidor de banco de dados recebeu uma requisição. Delay: 4.777551308321701
+u: Source at 1865.6024914096233: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.28847577887441
+u: ServidorAppFront at 1865.6024914096233: Servidor de Aplicação Front iniciou. Delay: 7.801196476532182
+u: ServidorBancoDeDados at 1865.660588675248: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1873.4036878861555: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 1873.4036878861555: Servidor de login iniciou. Delay: 14.97276351757685
+u: ServidorAppFront at 1888.3764514037323: Servidor de Aplicação Front iniciou. Delay: 8.501958555095165
+u: ServidorAppFront at 1896.8784099588274: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1896.8784099588274: Servidor de Aplicação API iniciou. Delay: 4.859424680432126
+u: ServidorAppApi at 1901.7378346392595: Requisição Enviada para o Sensor 1
+u: SensorLCC at 1901.7378346392595: Sensor recebeu uma requisição. Delay: 4.0835569919632135
+u: SensorLCC at 1905.8213916312227: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1905.8213916312227: Servidor de Aplicação API iniciou. Delay: 5.354938298182392
+u: ServidorAppApi at 1911.176329929405: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1911.176329929405: Servidor de banco de dados recebeu uma requisição. Delay: 4.681796694785116
+u: Source at 1914.8909671884978: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.087146354634434
+u: ServidorAppFront at 1914.8909671884978: Servidor de Aplicação Front iniciou. Delay: 9.757917845086887
+u: ServidorBancoDeDados at 1915.8581266241902: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1924.6488850335847: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 1924.6488850335847: Servidor de login iniciou. Delay: 16.23972167811712
+u: ServidorAppFront at 1940.8886067117019: Servidor de Aplicação Front iniciou. Delay: 9.120472391382318
+u: ServidorAppFront at 1950.009079103084: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1950.009079103084: Servidor de Aplicação API iniciou. Delay: 6.24303562902978
+u: ServidorAppApi at 1956.2521147321138: Requisição Enviada para o Sensor 2
+u: SensorPonto at 1956.2521147321138: Sensor recebeu uma requisição. Delay: 3.7678482580634927
+u: SensorPonto at 1960.0199629901772: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 1960.0199629901772: Servidor de Aplicação API iniciou. Delay: 5.792293626078745
+u: Source at 1961.9781135431322: Nova requisição gerada para o Servidor de aplicação front. Delay: 48.177686360838834
+u: ServidorAppFront at 1961.9781135431322: Servidor de Aplicação Front iniciou. Delay: 10.86627598809678
+u: ServidorAppApi at 1965.812256616256: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 1965.812256616256: Servidor de banco de dados recebeu uma requisição. Delay: 3.6973322480909063
+u: ServidorBancoDeDados at 1969.509588864347: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 1972.844389531229: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 1972.844389531229: Servidor de login iniciou. Delay: 16.0245751832812
+u: ServidorAppFront at 1988.8689647145102: Servidor de Aplicação Front iniciou. Delay: 7.235850523698803
+u: ServidorAppFront at 1996.104815238209: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 1996.104815238209: Servidor de Aplicação API iniciou. Delay: 7.026763187935405
+u: ServidorAppApi at 2003.1315784261444: Requisição Enviada para o Sensor 3
+u: SensorLSD at 2003.1315784261444: Sensor recebeu uma requisição. Delay: 2.990017616157197
+u: SensorLSD at 2006.1215960423017: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2006.1215960423017: Servidor de Aplicação API iniciou. Delay: 4.459664723467274
+u: Source at 2010.155799903971: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.32093582726762
+u: ServidorAppFront at 2010.155799903971: Servidor de Aplicação Front iniciou. Delay: 9.803115759658136
+u: ServidorAppApi at 2010.581260765769: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2010.581260765769: Servidor de banco de dados recebeu uma requisição. Delay: 4.185036565302121
+u: ServidorBancoDeDados at 2014.7662973310712: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2019.958915663629: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 2019.958915663629: Servidor de login iniciou. Delay: 14.97276351757685
+u: ServidorAppFront at 2034.931679181206: Servidor de Aplicação Front iniciou. Delay: 9.09335601680883
+u: ServidorAppFront at 2044.0250351980148: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2044.0250351980148: Servidor de Aplicação API iniciou. Delay: 6.2749953809186
+u: ServidorAppApi at 2050.3000305789333: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 2050.3000305789333: Sensor recebeu uma requisição. Delay: 3.6348329705556557
+u: SensorBiblioteca at 2053.934863549489: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2053.934863549489: Servidor de Aplicação API iniciou. Delay: 5.773119453736636
+u: ServidorAppApi at 2059.7079830032258: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2059.7079830032258: Servidor de banco de dados recebeu uma requisição. Delay: 5.590740460737062
+u: Source at 2061.4767357312385: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.34231786855276
+u: ServidorAppFront at 2061.4767357312385: Servidor de Aplicação Front iniciou. Delay: 8.964398872930872
+u: ServidorBancoDeDados at 2065.2987234639627: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2070.4411346041693: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2070.4411346041693: Servidor de login iniciou. Delay: 15.23229404300697
+u: ServidorAppFront at 2085.6734286471765: Servidor de Aplicação Front iniciou. Delay: 11.429575704114063
+u: ServidorAppFront at 2097.1030043512906: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2097.1030043512906: Servidor de Aplicação API iniciou. Delay: 5.681932982818083
+u: ServidorAppApi at 2102.7849373341087: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2102.7849373341087: Sensor recebeu uma requisição. Delay: 4.897527958191134
+u: SensorLCC at 2107.6824652922996: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2107.6824652922996: Servidor de Aplicação API iniciou. Delay: 7.425076236971682
+u: Source at 2110.8190535997915: Nova requisição gerada para o Servidor de aplicação front. Delay: 53.16960383417447
+u: ServidorAppFront at 2110.8190535997915: Servidor de Aplicação Front iniciou. Delay: 5.619390993697595
+u: ServidorAppApi at 2115.107541529271: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2115.107541529271: Servidor de banco de dados recebeu uma requisição. Delay: 4.705875609299404
+u: ServidorAppFront at 2116.438444593489: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2116.438444593489: Servidor de login iniciou. Delay: 17.687692411400494
+u: ServidorBancoDeDados at 2119.8134171385705: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2134.126137004889: Servidor de Aplicação Front iniciou. Delay: 7.497310922322069
+u: ServidorAppFront at 2141.623447927211: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2141.623447927211: Servidor de Aplicação API iniciou. Delay: 3.316655228289801
+u: ServidorAppApi at 2144.9401031555008: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2144.9401031555008: Sensor recebeu uma requisição. Delay: 6.503924954635781
+u: SensorLCC at 2151.4440281101365: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2151.4440281101365: Servidor de Aplicação API iniciou. Delay: 4.644545144345524
+u: ServidorAppApi at 2156.088573254482: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2156.088573254482: Servidor de banco de dados recebeu uma requisição. Delay: 6.417489926991615
+u: ServidorBancoDeDados at 2162.5060631814736: Servidor de Banco de Dados completou.
+u: Source at 2163.9886574339657: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.29939537995662
+u: ServidorAppFront at 2163.9886574339657: Servidor de Aplicação Front iniciou. Delay: 6.573425363712156
+u: ServidorAppFront at 2170.5620827976777: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 2170.5620827976777: Servidor de login iniciou. Delay: 16.23972167811712
+u: ServidorAppFront at 2186.8018044757946: Servidor de Aplicação Front iniciou. Delay: 9.44492545177126
+u: ServidorAppFront at 2196.246729927566: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2196.246729927566: Servidor de Aplicação API iniciou. Delay: 3.991259400812133
+u: ServidorAppApi at 2200.237989328378: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 2200.237989328378: Sensor recebeu uma requisição. Delay: 4.58826328247365
+u: SensorBiblioteca at 2204.8262526108515: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2204.8262526108515: Servidor de Aplicação API iniciou. Delay: 6.021716585256494
+u: ServidorAppApi at 2210.847969196108: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2210.847969196108: Servidor de banco de dados recebeu uma requisição. Delay: 5.133893684346478
+u: Source at 2214.288052813922: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.46435969330951
+u: ServidorAppFront at 2214.288052813922: Servidor de Aplicação Front iniciou. Delay: 8.518214601322418
+u: ServidorBancoDeDados at 2215.981862880454: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2222.8062674152447: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2222.8062674152447: Servidor de login iniciou. Delay: 16.370693647116855
+u: ServidorAppFront at 2239.1769610623614: Servidor de Aplicação Front iniciou. Delay: 9.788044278869446
+u: ServidorAppFront at 2248.965005341231: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2248.965005341231: Servidor de Aplicação API iniciou. Delay: 5.366433058704965
+u: ServidorAppApi at 2254.331438399936: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2254.331438399936: Sensor recebeu uma requisição. Delay: 9.508971957044206
+u: SensorLCC at 2263.84041035698: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2263.84041035698: Servidor de Aplicação API iniciou. Delay: 6.264338234650395
+u: Source at 2264.752412507232: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.673162496768754
+u: ServidorAppFront at 2264.752412507232: Servidor de Aplicação Front iniciou. Delay: 5.673225568815699
+u: ServidorAppApi at 2270.1047485916306: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2270.1047485916306: Servidor de banco de dados recebeu uma requisição. Delay: 5.2076679680502025
+u: ServidorAppFront at 2270.4256380760476: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2270.4256380760476: Servidor de login iniciou. Delay: 17.955508786620758
+u: ServidorBancoDeDados at 2275.312416559681: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2288.381146862668: Servidor de Aplicação Front iniciou. Delay: 8.425927229580061
+u: ServidorAppFront at 2296.807074092248: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2296.807074092248: Servidor de Aplicação API iniciou. Delay: 3.354722021418109
+u: ServidorAppApi at 2300.1617961136662: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2300.1617961136662: Sensor recebeu uma requisição. Delay: 6.272943131952116
+u: SensorLCC at 2306.4347392456184: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2306.4347392456184: Servidor de Aplicação API iniciou. Delay: 5.30117603232806
+u: ServidorAppApi at 2311.7359152779463: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2311.7359152779463: Servidor de banco de dados recebeu uma requisição. Delay: 5.301047420535684
+u: Source at 2315.4255750040006: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.30811075430969
+u: ServidorAppFront at 2315.4255750040006: Servidor de Aplicação Front iniciou. Delay: 7.418055736354219
+u: ServidorBancoDeDados at 2317.036962698482: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2322.843630740355: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 2322.843630740355: Servidor de login iniciou. Delay: 15.23229404300697
+u: ServidorAppFront at 2338.075924783362: Servidor de Aplicação Front iniciou. Delay: 6.431209009436715
+u: ServidorAppFront at 2344.507133792799: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2344.507133792799: Servidor de Aplicação API iniciou. Delay: 4.588503264903457
+u: ServidorAppApi at 2349.0956370577023: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 2349.0956370577023: Sensor recebeu uma requisição. Delay: 6.368821789189922
+u: SensorBiblioteca at 2355.4644588468923: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2355.4644588468923: Servidor de Aplicação API iniciou. Delay: 3.8906972523083407
+u: ServidorAppApi at 2359.3551560992005: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2359.3551560992005: Servidor de banco de dados recebeu uma requisição. Delay: 5.13779131824704
+u: ServidorBancoDeDados at 2364.4929474174473: Servidor de Banco de Dados completou.
+u: Source at 2365.7336857583105: Nova requisição gerada para o Servidor de aplicação front. Delay: 53.24979842319774
+u: ServidorAppFront at 2365.7336857583105: Servidor de Aplicação Front iniciou. Delay: 8.479335190329172
+u: ServidorAppFront at 2374.2130209486395: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 2374.2130209486395: Servidor de login iniciou. Delay: 17.687692411400494
+u: ServidorAppFront at 2391.90071336004: Servidor de Aplicação Front iniciou. Delay: 7.083134752509568
+u: ServidorAppFront at 2398.9838481125494: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2398.9838481125494: Servidor de Aplicação API iniciou. Delay: 5.338941163543102
+u: ServidorAppApi at 2404.3227892760924: Requisição Enviada para o Sensor 3
+u: SensorLSD at 2404.3227892760924: Sensor recebeu uma requisição. Delay: 3.843717567690647
+u: SensorLSD at 2408.1665068437833: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2408.1665068437833: Servidor de Aplicação API iniciou. Delay: 4.351678366065233
+u: ServidorAppApi at 2412.5181852098485: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2412.5181852098485: Servidor de banco de dados recebeu uma requisição. Delay: 6.453354037488354
+u: ServidorBancoDeDados at 2418.9715392473368: Servidor de Banco de Dados completou.
+u: Source at 2418.983484181508: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.60350856491585
+u: ServidorAppFront at 2418.983484181508: Servidor de Aplicação Front iniciou. Delay: 4.692327525383771
+u: ServidorAppFront at 2423.675811706892: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2423.675811706892: Servidor de login iniciou. Delay: 15.141818823928318
+u: ServidorAppFront at 2438.81763053082: Servidor de Aplicação Front iniciou. Delay: 8.392306397994037
+u: ServidorAppFront at 2447.2099369288144: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2447.2099369288144: Servidor de Aplicação API iniciou. Delay: 2.6611223632547762
+u: ServidorAppApi at 2449.8710592920693: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2449.8710592920693: Sensor recebeu uma requisição. Delay: 6.884898033014757
+u: SensorLCC at 2456.755957325084: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2456.755957325084: Servidor de Aplicação API iniciou. Delay: 5.277402514324452
+u: ServidorAppApi at 2462.0333598394086: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2462.0333598394086: Servidor de banco de dados recebeu uma requisição. Delay: 3.9282564487311618
+u: ServidorBancoDeDados at 2465.96161628814: Servidor de Banco de Dados completou.
+u: Source at 2466.586992746424: Nova requisição gerada para o Servidor de aplicação front. Delay: 45.58764511159217
+u: ServidorAppFront at 2466.586992746424: Servidor de Aplicação Front iniciou. Delay: 7.446520075223275
+u: ServidorAppFront at 2474.0335128216475: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2474.0335128216475: Servidor de login iniciou. Delay: 15.652172362757412
+u: ServidorAppFront at 2489.685685184405: Servidor de Aplicação Front iniciou. Delay: 8.199939508297096
+u: ServidorAppFront at 2497.885624692702: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2497.885624692702: Servidor de Aplicação API iniciou. Delay: 4.608630591939757
+u: ServidorAppApi at 2502.494255284642: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2502.494255284642: Sensor recebeu uma requisição. Delay: 2.6551487096821225
+u: SensorLCC at 2505.149403994324: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2505.149403994324: Servidor de Aplicação API iniciou. Delay: 5.141378582143981
+u: ServidorAppApi at 2510.2907825764682: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2510.2907825764682: Servidor de banco de dados recebeu uma requisição. Delay: 3.026734905733318
+u: Source at 2512.1746378580165: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.48770724808422
+u: ServidorAppFront at 2512.1746378580165: Servidor de Aplicação Front iniciou. Delay: 7.956240721914902
+u: ServidorBancoDeDados at 2513.3175174822018: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2520.1308785799315: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2520.1308785799315: Servidor de login iniciou. Delay: 18.085470655873202
+u: ServidorAppFront at 2538.2163492358045: Servidor de Aplicação Front iniciou. Delay: 7.242857703431446
+u: ServidorAppFront at 2545.459206939236: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2545.459206939236: Servidor de Aplicação API iniciou. Delay: 4.969057517726199
+u: ServidorAppApi at 2550.428264456962: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2550.428264456962: Sensor recebeu uma requisição. Delay: 4.003502787574161
+u: SensorLCC at 2554.4317672445363: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2554.4317672445363: Servidor de Aplicação API iniciou. Delay: 4.46461954777322
+u: ServidorAppApi at 2558.8963867923094: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2558.8963867923094: Servidor de banco de dados recebeu uma requisição. Delay: 5.218109311967135
+u: Source at 2562.6623451061005: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.68631721101787
+u: ServidorAppFront at 2562.6623451061005: Servidor de Aplicação Front iniciou. Delay: 7.928408160883236
+u: ServidorBancoDeDados at 2564.1144961042764: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2570.5907532669835: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 2570.5907532669835: Servidor de login iniciou. Delay: 16.370693647116855
+u: ServidorAppFront at 2586.9614469141: Servidor de Aplicação Front iniciou. Delay: 7.882327724047526
+u: ServidorAppFront at 2594.843774638148: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2594.843774638148: Servidor de Aplicação API iniciou. Delay: 4.94937692508292
+u: ServidorAppApi at 2599.793151563231: Requisição Enviada para o Sensor 3
+u: SensorLSD at 2599.793151563231: Sensor recebeu uma requisição. Delay: 5.528520951235749
+u: SensorLSD at 2605.3216725144666: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2605.3216725144666: Servidor de Aplicação API iniciou. Delay: 4.916793135716351
+u: ServidorAppApi at 2610.238465650183: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2610.238465650183: Servidor de banco de dados recebeu uma requisição. Delay: 5.754143983092763
+u: Source at 2614.3486623171184: Nova requisição gerada para o Servidor de aplicação front. Delay: 53.42552981569258
+u: ServidorAppFront at 2614.3486623171184: Servidor de Aplicação Front iniciou. Delay: 6.431909967063753
+u: ServidorBancoDeDados at 2615.992609633276: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2620.780572284182: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2620.780572284182: Servidor de login iniciou. Delay: 18.733209760797507
+u: ServidorAppFront at 2639.5137820449795: Servidor de Aplicação Front iniciou. Delay: 7.249055871737064
+u: ServidorAppFront at 2646.7628379167168: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2646.7628379167168: Servidor de Aplicação API iniciou. Delay: 3.8911929041997433
+u: ServidorAppApi at 2650.6540308209164: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2650.6540308209164: Sensor recebeu uma requisição. Delay: 6.521592776371099
+u: SensorLCC at 2657.1756235972875: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2657.1756235972875: Servidor de Aplicação API iniciou. Delay: 4.469002314613058
+u: ServidorAppApi at 2661.6446259119007: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2661.6446259119007: Servidor de banco de dados recebeu uma requisição. Delay: 6.531943505368185
+u: Source at 2667.774192132811: Nova requisição gerada para o Servidor de aplicação front. Delay: 52.408720984545646
+u: ServidorAppFront at 2667.774192132811: Servidor de Aplicação Front iniciou. Delay: 11.543914800649638
+u: ServidorBancoDeDados at 2668.1765694172686: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2679.3181069334605: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 2679.3181069334605: Servidor de login iniciou. Delay: 17.955508786620758
+u: ServidorAppFront at 2697.273615720081: Servidor de Aplicação Front iniciou. Delay: 5.569835203310177
+u: ServidorAppFront at 2702.843450923391: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2702.843450923391: Servidor de Aplicação API iniciou. Delay: 7.505926187486731
+u: ServidorAppApi at 2710.349377110878: Requisição Enviada para o Sensor 3
+u: SensorLSD at 2710.349377110878: Sensor recebeu uma requisição. Delay: 8.680240836528899
+u: SensorLSD at 2719.0296179474067: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2719.0296179474067: Servidor de Aplicação API iniciou. Delay: 3.2816139928597985
+u: Source at 2720.1829131173567: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.068002273994615
+u: ServidorAppFront at 2720.1829131173567: Servidor de Aplicação Front iniciou. Delay: 10.023754087830856
+u: ServidorAppApi at 2722.3112319402667: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2722.3112319402667: Servidor de banco de dados recebeu uma requisição. Delay: 6.077212772054857
+u: ServidorBancoDeDados at 2728.3884447123214: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2730.2066672051874: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2730.2066672051874: Servidor de login iniciou. Delay: 15.867275932830244
+u: ServidorAppFront at 2746.0739431380175: Servidor de Aplicação Front iniciou. Delay: 6.190730539651603
+u: ServidorAppFront at 2752.264673677669: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2752.264673677669: Servidor de Aplicação API iniciou. Delay: 6.431010238959193
+u: ServidorAppApi at 2758.6956839166282: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2758.6956839166282: Sensor recebeu uma requisição. Delay: 5.223539930597965
+u: SensorLCC at 2763.919223847226: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2763.919223847226: Servidor de Aplicação API iniciou. Delay: 3.720653295593923
+u: Source at 2767.2509153913516: Nova requisição gerada para o Servidor de aplicação front. Delay: 48.7426262068863
+u: ServidorAppFront at 2767.2509153913516: Servidor de Aplicação Front iniciou. Delay: 6.151834179504139
+u: ServidorAppApi at 2767.63987714282: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2767.63987714282: Servidor de banco de dados recebeu uma requisição. Delay: 3.6887707549554327
+u: ServidorBancoDeDados at 2771.328647897775: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2773.4027495708556: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2773.4027495708556: Servidor de login iniciou. Delay: 15.21674273598082
+u: ServidorAppFront at 2788.6194923068365: Servidor de Aplicação Front iniciou. Delay: 7.324348925830426
+u: ServidorAppFront at 2795.9438412326667: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2795.9438412326667: Servidor de Aplicação API iniciou. Delay: 3.6931494155701765
+u: ServidorAppApi at 2799.636990648237: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2799.636990648237: Sensor recebeu uma requisição. Delay: 4.62929269950499
+u: SensorLCC at 2804.266283347742: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2804.266283347742: Servidor de Aplicação API iniciou. Delay: 4.522242543738719
+u: ServidorAppApi at 2808.7885258914807: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2808.7885258914807: Servidor de banco de dados recebeu uma requisição. Delay: 4.4376853450942
+u: ServidorBancoDeDados at 2813.2262112365747: Servidor de Banco de Dados completou.
+u: Source at 2815.9935415982377: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.08565416423442
+u: ServidorAppFront at 2815.9935415982377: Servidor de Aplicação Front iniciou. Delay: 11.005906720227452
+u: ServidorAppFront at 2826.999448318465: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 2826.999448318465: Servidor de login iniciou. Delay: 15.141818823928318
+u: ServidorAppFront at 2842.141267142393: Servidor de Aplicação Front iniciou. Delay: 8.371610385086925
+u: ServidorAppFront at 2850.51287752748: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2850.51287752748: Servidor de Aplicação API iniciou. Delay: 7.125497025487046
+u: ServidorAppApi at 2857.6383745529674: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 2857.6383745529674: Sensor recebeu uma requisição. Delay: 5.450959819605243
+u: SensorBiblioteca at 2863.0893343725725: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2863.0893343725725: Servidor de Aplicação API iniciou. Delay: 5.262768223254309
+u: Source at 2866.079195762472: Nova requisição gerada para o Servidor de aplicação front. Delay: 46.70287553239869
+u: ServidorAppFront at 2866.079195762472: Servidor de Aplicação Front iniciou. Delay: 6.998346951849435
+u: ServidorAppApi at 2868.3521025958266: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2868.3521025958266: Servidor de banco de dados recebeu uma requisição. Delay: 5.038305706756819
+u: ServidorAppFront at 2873.077542714321: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 2873.077542714321: Servidor de login iniciou. Delay: 14.72533514338908
+u: ServidorBancoDeDados at 2873.3904083025836: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2887.8028778577104: Servidor de Aplicação Front iniciou. Delay: 7.23945640599729
+u: ServidorAppFront at 2895.0423342637077: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2895.0423342637077: Servidor de Aplicação API iniciou. Delay: 4.29172433725656
+u: ServidorAppApi at 2899.3340586009645: Requisição Enviada para o Sensor 1
+u: SensorLCC at 2899.3340586009645: Sensor recebeu uma requisição. Delay: 7.3141897855659685
+u: SensorLCC at 2906.64824838653: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2906.64824838653: Servidor de Aplicação API iniciou. Delay: 4.462214467292695
+u: ServidorAppApi at 2911.110462853823: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2911.110462853823: Servidor de banco de dados recebeu uma requisição. Delay: 3.525481112033135
+u: Source at 2912.7820712948705: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.69099981008385
+u: ServidorAppFront at 2912.7820712948705: Servidor de Aplicação Front iniciou. Delay: 5.661119077001278
+u: ServidorBancoDeDados at 2914.635943965856: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 2918.443190371872: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 2918.443190371872: Servidor de login iniciou. Delay: 15.652172362757412
+u: ServidorAppFront at 2934.0953627346294: Servidor de Aplicação Front iniciou. Delay: 7.122825226197756
+u: ServidorAppFront at 2941.218187960827: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2941.218187960827: Servidor de Aplicação API iniciou. Delay: 3.3461614389597525
+u: ServidorAppApi at 2944.564349399787: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 2944.564349399787: Sensor recebeu uma requisição. Delay: 5.030763572798072
+u: SensorBiblioteca at 2949.595112972585: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 2949.595112972585: Servidor de Aplicação API iniciou. Delay: 4.379743769158657
+u: ServidorAppApi at 2953.9748567417437: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 2953.9748567417437: Servidor de banco de dados recebeu uma requisição. Delay: 3.967383723057513
+u: ServidorBancoDeDados at 2957.942240464801: Servidor de Banco de Dados completou.
+u: Source at 2960.473071104954: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.3150143808087
+u: ServidorAppFront at 2960.473071104954: Servidor de Aplicação Front iniciou. Delay: 7.936337000358068
+u: ServidorAppFront at 2968.409408105312: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 2968.409408105312: Servidor de login iniciou. Delay: 18.085470655873202
+u: ServidorAppFront at 2986.494878761185: Servidor de Aplicação Front iniciou. Delay: 9.433448611527895
+u: ServidorAppFront at 2995.9283273727133: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 2995.9283273727133: Servidor de Aplicação API iniciou. Delay: 4.954983461242513
+u: ServidorAppApi at 3000.883310833956: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 3000.883310833956: Sensor recebeu uma requisição. Delay: 6.929272509139791
+u: SensorBiblioteca at 3007.812583343096: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3007.812583343096: Servidor de Aplicação API iniciou. Delay: 6.013601233693816
+u: Source at 3010.788085485763: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.14800355151354
+u: ServidorAppFront at 3010.788085485763: Servidor de Aplicação Front iniciou. Delay: 8.633434144062612
+u: ServidorAppApi at 3013.8261845767897: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3013.8261845767897: Servidor de banco de dados recebeu uma requisição. Delay: 5.140878713875649
+u: ServidorBancoDeDados at 3018.9670632906655: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3019.4215196298255: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 3019.4215196298255: Servidor de login iniciou. Delay: 18.733209760797507
+u: ServidorAppFront at 3038.154729390623: Servidor de Aplicação Front iniciou. Delay: 3.8636089798887143
+u: ServidorAppFront at 3042.0183383705116: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3042.0183383705116: Servidor de Aplicação API iniciou. Delay: 5.447905578701769
+u: ServidorAppApi at 3047.4662439492135: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 3047.4662439492135: Sensor recebeu uma requisição. Delay: 6.591538757872411
+u: SensorBiblioteca at 3054.057782707086: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3054.057782707086: Servidor de Aplicação API iniciou. Delay: 2.0751298600401693
+u: ServidorAppApi at 3056.1329125671264: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3056.1329125671264: Servidor de banco de dados recebeu uma requisição. Delay: 4.618975604919176
+u: Source at 3059.936089037277: Nova requisição gerada para o Servidor de aplicação front. Delay: 52.86287176167176
+u: ServidorAppFront at 3059.936089037277: Servidor de Aplicação Front iniciou. Delay: 9.811610057080612
+u: ServidorBancoDeDados at 3060.7518881720457: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3069.7476990943574: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 3069.7476990943574: Servidor de login iniciou. Delay: 15.867275932830244
+u: ServidorAppFront at 3085.6149750271875: Servidor de Aplicação Front iniciou. Delay: 6.841708411228481
+u: ServidorAppFront at 3092.456683438416: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3092.456683438416: Servidor de Aplicação API iniciou. Delay: 6.2810017562274485
+u: ServidorAppApi at 3098.7376851946433: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 3098.7376851946433: Sensor recebeu uma requisição. Delay: 5.984275009541215
+u: SensorBiblioteca at 3104.7219602041846: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3104.7219602041846: Servidor de Aplicação API iniciou. Delay: 4.180964162988319
+u: ServidorAppApi at 3108.902924367173: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3108.902924367173: Servidor de banco de dados recebeu uma requisição. Delay: 6.280315173992528
+u: Source at 3112.7989607989484: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.44314774816179
+u: ServidorAppFront at 3112.7989607989484: Servidor de Aplicação Front iniciou. Delay: 6.215942588049744
+u: ServidorBancoDeDados at 3115.1832395411657: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3119.014903386998: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 3119.014903386998: Servidor de login iniciou. Delay: 15.994017001499865
+u: ServidorAppFront at 3135.0089203884977: Servidor de Aplicação Front iniciou. Delay: 8.453350282392545
+u: ServidorAppFront at 3143.46227067089: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3143.46227067089: Servidor de Aplicação API iniciou. Delay: 3.7384809059838524
+u: ServidorAppApi at 3147.200751576874: Requisição Enviada para o Sensor 2
+u: SensorPonto at 3147.200751576874: Sensor recebeu uma requisição. Delay: 6.583158452269311
+u: SensorPonto at 3153.7839100291435: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3153.7839100291435: Servidor de Aplicação API iniciou. Delay: 5.320567058932606
+u: ServidorAppApi at 3159.1044770880762: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3159.1044770880762: Servidor de banco de dados recebeu uma requisição. Delay: 5.645395293293104
+u: Source at 3164.24210854711: Nova requisição gerada para o Servidor de aplicação front. Delay: 48.22409616347594
+u: ServidorAppFront at 3164.24210854711: Servidor de Aplicação Front iniciou. Delay: 8.389992273371321
+u: ServidorBancoDeDados at 3164.749872381369: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3172.6321008204814: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 3172.6321008204814: Servidor de login iniciou. Delay: 15.21674273598082
+u: ServidorAppFront at 3187.8488435564623: Servidor de Aplicação Front iniciou. Delay: 6.710543767056423
+u: ServidorAppFront at 3194.559387323519: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3194.559387323519: Servidor de Aplicação API iniciou. Delay: 5.275766181111219
+u: ServidorAppApi at 3199.83515350463: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 3199.83515350463: Sensor recebeu uma requisição. Delay: 6.7157536445811346
+u: SensorBiblioteca at 3206.550907149211: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3206.550907149211: Servidor de Aplicação API iniciou. Delay: 4.088216753642336
+u: ServidorAppApi at 3210.6391239028535: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3210.6391239028535: Servidor de banco de dados recebeu uma requisição. Delay: 4.2057916600059055
+u: Source at 3212.466204710586: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.43927931975645
+u: ServidorAppFront at 3212.466204710586: Servidor de Aplicação Front iniciou. Delay: 9.22708170225005
+u: ServidorBancoDeDados at 3214.8449155628596: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3221.693286412836: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 3221.693286412836: Servidor de login iniciou. Delay: 13.926691610709916
+u: ServidorAppFront at 3235.619978023546: Servidor de Aplicação Front iniciou. Delay: 7.2971499457518165
+u: ServidorAppFront at 3242.917127969298: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3242.917127969298: Servidor de Aplicação API iniciou. Delay: 5.867677792730943
+u: ServidorAppApi at 3248.7848057620286: Requisição Enviada para o Sensor 1
+u: SensorLCC at 3248.7848057620286: Sensor recebeu uma requisição. Delay: 6.836562134052498
+u: SensorLCC at 3255.621367896081: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3255.621367896081: Servidor de Aplicação API iniciou. Delay: 4.5030099604837766
+u: ServidorAppApi at 3260.124377856565: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3260.124377856565: Servidor de banco de dados recebeu uma requisição. Delay: 5.196451684017058
+u: Source at 3262.9054840303424: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.75230960393972
+u: ServidorAppFront at 3262.9054840303424: Servidor de Aplicação Front iniciou. Delay: 7.967036108607506
+u: ServidorBancoDeDados at 3265.320829540582: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3270.8725201389498: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 3270.8725201389498: Servidor de login iniciou. Delay: 16.16771614549009
+u: ServidorAppFront at 3287.0402362844397: Servidor de Aplicação Front iniciou. Delay: 6.531339993205242
+u: ServidorAppFront at 3293.571576277645: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3293.571576277645: Servidor de Aplicação API iniciou. Delay: 4.976691008862071
+u: ServidorAppApi at 3298.548267286507: Requisição Enviada para o Sensor 2
+u: SensorPonto at 3298.548267286507: Sensor recebeu uma requisição. Delay: 5.131891251501423
+u: SensorPonto at 3303.680158538008: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3303.680158538008: Servidor de Aplicação API iniciou. Delay: 3.961500549937945
+u: ServidorAppApi at 3307.641659087946: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3307.641659087946: Servidor de banco de dados recebeu uma requisição. Delay: 3.9948022964071592
+u: Source at 3310.6577936342824: Nova requisição gerada para o Servidor de aplicação front. Delay: 52.49092291536269
+u: ServidorAppFront at 3310.6577936342824: Servidor de Aplicação Front iniciou. Delay: 5.9950654933226915
+u: ServidorBancoDeDados at 3311.6364613843534: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3316.652859127605: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 3316.652859127605: Servidor de login iniciou. Delay: 14.72533514338908
+u: ServidorAppFront at 3331.3781942709943: Servidor de Aplicação Front iniciou. Delay: 6.376937053638675
+u: ServidorAppFront at 3337.755131324633: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3337.755131324633: Servidor de Aplicação API iniciou. Delay: 3.582297214493569
+u: ServidorAppApi at 3341.337428539127: Requisição Enviada para o Sensor 3
+u: SensorLSD at 3341.337428539127: Sensor recebeu uma requisição. Delay: 5.286265171838652
+u: SensorLSD at 3346.6236937109657: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3346.6236937109657: Servidor de Aplicação API iniciou. Delay: 3.8523211843352896
+u: ServidorAppApi at 3350.476014895301: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3350.476014895301: Servidor de banco de dados recebeu uma requisição. Delay: 6.1139745930925855
+u: ServidorBancoDeDados at 3356.5899894883937: Servidor de Banco de Dados completou.
+u: Source at 3363.148716549645: Nova requisição gerada para o Servidor de aplicação front. Delay: 48.064450845005375
+u: ServidorAppFront at 3363.148716549645: Servidor de Aplicação Front iniciou. Delay: 7.9893801026005
+u: ServidorAppFront at 3371.1380966522456: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 3371.1380966522456: Servidor de login iniciou. Delay: 15.994017001499865
+u: ServidorAppFront at 3387.1321136537454: Servidor de Aplicação Front iniciou. Delay: 6.602796441523315
+u: ServidorAppFront at 3393.734910095269: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3393.734910095269: Servidor de Aplicação API iniciou. Delay: 4.992490598533308
+u: ServidorAppApi at 3398.727400693802: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 3398.727400693802: Sensor recebeu uma requisição. Delay: 6.1341150282612205
+u: SensorBiblioteca at 3404.861515722063: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3404.861515722063: Servidor de Aplicação API iniciou. Delay: 4.0120278891031615
+u: ServidorAppApi at 3408.873543611166: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3408.873543611166: Servidor de banco de dados recebeu uma requisição. Delay: 4.1343961031279495
+u: Source at 3411.2131673946506: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.1885718752881
+u: ServidorAppFront at 3411.2131673946506: Servidor de Aplicação Front iniciou. Delay: 6.641914527246469
+u: ServidorBancoDeDados at 3413.007939714294: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3417.855081921897: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 3417.855081921897: Servidor de login iniciou. Delay: 13.168535906252018
+u: ServidorAppFront at 3431.0236178281493: Servidor de Aplicação Front iniciou. Delay: 7.006731406335384
+u: ServidorAppFront at 3438.0303492344847: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3438.0303492344847: Servidor de Aplicação API iniciou. Delay: 4.03968855278504
+u: ServidorAppApi at 3442.07003778727: Requisição Enviada para o Sensor 1
+u: SensorLCC at 3442.07003778727: Sensor recebeu uma requisição. Delay: 5.977761505225
+u: SensorLCC at 3448.047799292495: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3448.047799292495: Servidor de Aplicação API iniciou. Delay: 4.297653041880125
+u: ServidorAppApi at 3452.345452334375: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3452.345452334375: Servidor de banco de dados recebeu uma requisição. Delay: 4.637118310857803
+u: ServidorBancoDeDados at 3456.9825706452325: Servidor de Banco de Dados completou.
+u: Source at 3460.401739269939: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.66756109359665
+u: ServidorAppFront at 3460.401739269939: Servidor de Aplicação Front iniciou. Delay: 7.01938673892249
+u: ServidorAppFront at 3467.4211260088614: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 3467.4211260088614: Servidor de login iniciou. Delay: 13.926691610709916
+u: ServidorAppFront at 3481.3478176195713: Servidor de Aplicação Front iniciou. Delay: 7.779261738159834
+u: ServidorAppFront at 3489.127079357731: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3489.127079357731: Servidor de Aplicação API iniciou. Delay: 4.306601713370639
+u: ServidorAppApi at 3493.4336810711015: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 3493.4336810711015: Sensor recebeu uma requisição. Delay: 7.55173993722099
+u: SensorBiblioteca at 3500.9854210083226: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3500.9854210083226: Servidor de Aplicação API iniciou. Delay: 4.843914478185487
+u: ServidorAppApi at 3505.829335486508: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3505.829335486508: Servidor de banco de dados recebeu uma requisição. Delay: 4.851328801383284
+u: Source at 3510.0693003635356: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.10044774341766
+u: ServidorAppFront at 3510.0693003635356: Servidor de Aplicação Front iniciou. Delay: 8.747870991492949
+u: ServidorBancoDeDados at 3510.6806642878914: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3518.8171713550287: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 3518.8171713550287: Servidor de login iniciou. Delay: 16.16771614549009
+u: ServidorAppFront at 3534.9848875005187: Servidor de Aplicação Front iniciou. Delay: 9.214068461284729
+u: ServidorAppFront at 3544.198955961803: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3544.198955961803: Servidor de Aplicação API iniciou. Delay: 5.528824649537371
+u: ServidorAppApi at 3549.7277806113407: Requisição Enviada para o Sensor 3
+u: SensorLSD at 3549.7277806113407: Sensor recebeu uma requisição. Delay: 5.92808888675424
+u: SensorLSD at 3555.655869498095: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3555.655869498095: Servidor de Aplicação API iniciou. Delay: 5.858476041799149
+u: Source at 3561.169748106953: Nova requisição gerada para o Servidor de aplicação front. Delay: 48.56283146858201
+u: ServidorAppFront at 3561.169748106953: Servidor de Aplicação Front iniciou. Delay: 6.792032861488543
+u: ServidorAppApi at 3561.5143455398943: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3561.5143455398943: Servidor de banco de dados recebeu uma requisição. Delay: 5.492135191993627
+u: ServidorBancoDeDados at 3567.006480731888: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3567.961780968442: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 3567.961780968442: Servidor de login iniciou. Delay: 14.614707563935962
+u: ServidorAppFront at 3582.576488532378: Servidor de Aplicação Front iniciou. Delay: 9.654513419388246
+u: ServidorAppFront at 3592.2310019517663: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3592.2310019517663: Servidor de Aplicação API iniciou. Delay: 4.145838244908039
+u: ServidorAppApi at 3596.3768401966745: Requisição Enviada para o Sensor 2
+u: SensorPonto at 3596.3768401966745: Sensor recebeu uma requisição. Delay: 4.4675026494189645
+u: SensorPonto at 3600.8443428460932: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3600.8443428460932: Servidor de Aplicação API iniciou. Delay: 6.169917658413571
+u: ServidorAppApi at 3607.0142605045066: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3607.0142605045066: Servidor de banco de dados recebeu uma requisição. Delay: 4.357278693725168
+u: Source at 3609.732579575535: Nova requisição gerada para o Servidor de aplicação front. Delay: 46.16412967051512
+u: ServidorAppFront at 3609.732579575535: Servidor de Aplicação Front iniciou. Delay: 5.411402088001326
+u: ServidorBancoDeDados at 3611.371539198232: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3615.1439816635366: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 3615.1439816635366: Servidor de login iniciou. Delay: 14.448855708231475
+u: ServidorAppFront at 3629.592837371768: Servidor de Aplicação Front iniciou. Delay: 7.631268213965558
+u: ServidorAppFront at 3637.2241055857335: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3637.2241055857335: Servidor de Aplicação API iniciou. Delay: 3.1695848626603995
+u: ServidorAppApi at 3640.393690448394: Requisição Enviada para o Sensor 2
+u: SensorPonto at 3640.393690448394: Sensor recebeu uma requisição. Delay: 7.469308847930689
+u: SensorPonto at 3647.8629992963247: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3647.8629992963247: Servidor de Aplicação API iniciou. Delay: 4.739267253656019
+u: ServidorAppApi at 3652.602266549981: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3652.602266549981: Servidor de banco de dados recebeu uma requisição. Delay: 3.2845466380794583
+u: ServidorBancoDeDados at 3655.8868131880604: Servidor de Banco de Dados completou.
+u: Source at 3655.8967092460502: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.71226530553044
+u: ServidorAppFront at 3655.8967092460502: Servidor de Aplicação Front iniciou. Delay: 7.299541380311523
+u: ServidorAppFront at 3663.1962506263617: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 3663.1962506263617: Servidor de login iniciou. Delay: 12.743713268311922
+u: ServidorAppFront at 3675.9399638946734: Servidor de Aplicação Front iniciou. Delay: 7.611453269443787
+u: ServidorAppFront at 3683.551417164117: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3683.551417164117: Servidor de Aplicação API iniciou. Delay: 4.5047009600777095
+u: ServidorAppApi at 3688.0561181241947: Requisição Enviada para o Sensor 2
+u: SensorPonto at 3688.0561181241947: Sensor recebeu uma requisição. Delay: 6.935304899571838
+u: SensorPonto at 3694.9914230237664: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3694.9914230237664: Servidor de Aplicação API iniciou. Delay: 4.725255972015839
+u: ServidorAppApi at 3699.7166789957823: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3699.7166789957823: Servidor de banco de dados recebeu uma requisição. Delay: 4.871321132736185
+u: ServidorBancoDeDados at 3704.5880001285186: Servidor de Banco de Dados completou.
+u: Source at 3705.6089745515806: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.68566402948748
+u: ServidorAppFront at 3705.6089745515806: Servidor de Aplicação Front iniciou. Delay: 5.211106785658707
+u: ServidorAppFront at 3710.820081337239: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 3710.820081337239: Servidor de login iniciou. Delay: 13.588441924792432
+u: ServidorAppFront at 3724.4085232620314: Servidor de Aplicação Front iniciou. Delay: 8.974590164766798
+u: ServidorAppFront at 3733.383113426798: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3733.383113426798: Servidor de Aplicação API iniciou. Delay: 3.027954696134124
+u: ServidorAppApi at 3736.411068122932: Requisição Enviada para o Sensor 2
+u: SensorPonto at 3736.411068122932: Sensor recebeu uma requisição. Delay: 5.975136606982913
+u: SensorPonto at 3742.386204729915: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3742.386204729915: Servidor de Aplicação API iniciou. Delay: 5.6891393143843185
+u: ServidorAppApi at 3748.075344044299: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3748.075344044299: Servidor de banco de dados recebeu uma requisição. Delay: 4.859424680432126
+u: ServidorBancoDeDados at 3752.9347687247314: Servidor de Banco de Dados completou.
+u: Source at 3755.294638581068: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.79366616255392
+u: ServidorAppFront at 3755.294638581068: Servidor de Aplicação Front iniciou. Delay: 6.1012273791655405
+u: ServidorAppFront at 3761.3958659602336: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 3761.3958659602336: Servidor de login iniciou. Delay: 13.168535906252018
+u: ServidorAppFront at 3774.5644018664857: Servidor de Aplicação Front iniciou. Delay: 10.1794554393761
+u: ServidorAppFront at 3784.7438573058616: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3784.7438573058616: Servidor de Aplicação API iniciou. Delay: 3.657365003876601
+u: ServidorAppApi at 3788.4012223097384: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 3788.4012223097384: Sensor recebeu uma requisição. Delay: 6.791370346139427
+u: SensorBiblioteca at 3795.192592655878: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3795.192592655878: Servidor de Aplicação API iniciou. Delay: 6.541107720476747
+u: ServidorAppApi at 3801.7337003763546: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3801.7337003763546: Servidor de banco de dados recebeu uma requisição. Delay: 5.354938298182392
+u: Source at 3806.088304743622: Nova requisição gerada para o Servidor de aplicação front. Delay: 52.7795121649648
+u: ServidorAppFront at 3806.088304743622: Servidor de Aplicação Front iniciou. Delay: 11.01846575652991
+u: ServidorBancoDeDados at 3807.088638674537: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3817.106770500152: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 3817.106770500152: Servidor de login iniciou. Delay: 14.614707563935962
+u: ServidorAppFront at 3831.721478064088: Servidor de Aplicação Front iniciou. Delay: 7.076807940728651
+u: ServidorAppFront at 3838.7982860048164: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3838.7982860048164: Servidor de Aplicação API iniciou. Delay: 7.134377605221681
+u: ServidorAppApi at 3845.932663610038: Requisição Enviada para o Sensor 3
+u: SensorLSD at 3845.932663610038: Sensor recebeu uma requisição. Delay: 1.4918903709012623
+u: SensorLSD at 3847.4245539809394: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3847.4245539809394: Servidor de Aplicação API iniciou. Delay: 4.347204634551656
+u: ServidorAppApi at 3851.7717586154913: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3851.7717586154913: Servidor de banco de dados recebeu uma requisição. Delay: 6.24303562902978
+u: ServidorBancoDeDados at 3858.014794244521: Servidor de Banco de Dados completou.
+u: Source at 3858.8678169085865: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.771622406051875
+u: ServidorAppFront at 3858.8678169085865: Servidor de Aplicação Front iniciou. Delay: 8.053838874607997
+u: ServidorAppFront at 3866.9216557831946: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 3866.9216557831946: Servidor de login iniciou. Delay: 16.02319249208324
+u: ServidorAppFront at 3882.9448482752778: Servidor de Aplicação Front iniciou. Delay: 9.105399118373807
+u: ServidorAppFront at 3892.0502473936517: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3892.0502473936517: Servidor de Aplicação API iniciou. Delay: 5.038069833326767
+u: ServidorAppApi at 3897.0883172269787: Requisição Enviada para o Sensor 2
+u: SensorPonto at 3897.0883172269787: Sensor recebeu uma requisição. Delay: 7.131705880221509
+u: SensorPonto at 3904.2200231072: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3904.2200231072: Servidor de Aplicação API iniciou. Delay: 5.781635212519751
+u: ServidorAppApi at 3910.00165831972: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3910.00165831972: Servidor de banco de dados recebeu uma requisição. Delay: 5.792293626078745
+u: Source at 3910.6394393146384: Nova requisição gerada para o Servidor de aplicação front. Delay: 54.53198026251775
+u: ServidorAppFront at 3910.6394393146384: Servidor de Aplicação Front iniciou. Delay: 8.90695105726999
+u: ServidorBancoDeDados at 3915.7939519457987: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 3919.5463903719083: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 3919.5463903719083: Servidor de login iniciou. Delay: 14.448855708231475
+u: ServidorAppFront at 3933.9952460801396: Servidor de Aplicação Front iniciou. Delay: 7.801993838580562
+u: ServidorAppFront at 3941.79723991872: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3941.79723991872: Servidor de Aplicação API iniciou. Delay: 5.64131124279992
+u: ServidorAppApi at 3947.43855116152: Requisição Enviada para o Sensor 3
+u: SensorLSD at 3947.43855116152: Sensor recebeu uma requisição. Delay: 2.906056058260737
+u: SensorLSD at 3950.3446072197808: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 3950.3446072197808: Servidor de Aplicação API iniciou. Delay: 4.859988500543597
+u: ServidorAppApi at 3955.2045957203245: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 3955.2045957203245: Servidor de banco de dados recebeu uma requisição. Delay: 7.026763187935405
+u: ServidorBancoDeDados at 3962.23135890826: Servidor de Banco de Dados completou.
+u: Source at 3965.171419577156: Nova requisição gerada para o Servidor de aplicação front. Delay: 48.79177359103168
+u: ServidorAppFront at 3965.171419577156: Servidor de Aplicação Front iniciou. Delay: 9.282032360602235
+u: ServidorAppFront at 3974.4534519377585: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 3974.4534519377585: Servidor de login iniciou. Delay: 14.490561611561327
+u: ServidorAppFront at 3988.9440135493196: Servidor de Aplicação Front iniciou. Delay: 7.2357208158126936
+u: ServidorAppFront at 3996.1797343651324: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 3996.1797343651324: Servidor de Aplicação API iniciou. Delay: 5.906533775882438
+u: ServidorAppApi at 4002.086268141015: Requisição Enviada para o Sensor 1
+u: SensorLCC at 4002.086268141015: Sensor recebeu uma requisição. Delay: 7.012228511484612
+u: SensorLCC at 4009.0984966524993: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4009.0984966524993: Servidor de Aplicação API iniciou. Delay: 4.459573006141433
+u: ServidorAppApi at 4013.5580696586408: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4013.5580696586408: Servidor de banco de dados recebeu uma requisição. Delay: 4.459664723467274
+u: Source at 4013.963193168188: Nova requisição gerada para o Servidor de aplicação front. Delay: 52.85097634273223
+u: ServidorAppFront at 4013.963193168188: Servidor de Aplicação Front iniciou. Delay: 7.230361740967432
+u: ServidorBancoDeDados at 4018.017734382108: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4021.1935549091554: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 4021.1935549091554: Servidor de login iniciou. Delay: 17.455164572766574
+u: ServidorAppFront at 4038.648719481922: Servidor de Aplicação Front iniciou. Delay: 8.518724794421926
+u: ServidorAppFront at 4047.1674442763438: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4047.1674442763438: Servidor de Aplicação API iniciou. Delay: 4.455783567977462
+u: ServidorAppApi at 4051.6232278443213: Requisição Enviada para o Sensor 1
+u: SensorLCC at 4051.6232278443213: Sensor recebeu uma requisição. Delay: 6.189667291885069
+u: SensorLCC at 4057.8128951362064: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4057.8128951362064: Servidor de Aplicação API iniciou. Delay: 5.366793819705341
+u: ServidorAppApi at 4063.179688955912: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4063.179688955912: Servidor de banco de dados recebeu uma requisição. Delay: 6.2749953809186
+u: Source at 4066.8141695109202: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.728747653282625
+u: ServidorAppFront at 4066.8141695109202: Servidor de Aplicação Front iniciou. Delay: 8.15328646005655
+u: ServidorBancoDeDados at 4069.4546843368303: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4074.967455970977: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 4074.967455970977: Servidor de login iniciou. Delay: 15.231910664100688
+u: ServidorAppFront at 4090.1993666350777: Servidor de Aplicação Front iniciou. Delay: 6.510109571468085
+u: ServidorAppFront at 4096.709476206545: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4096.709476206545: Servidor de Aplicação API iniciou. Delay: 5.108389895370068
+u: ServidorAppApi at 4101.817866101916: Requisição Enviada para o Sensor 2
+u: SensorPonto at 4101.817866101916: Sensor recebeu uma requisição. Delay: 6.212054478881654
+u: SensorPonto at 4108.029920580797: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4108.029920580797: Servidor de Aplicação API iniciou. Delay: 3.946488374760152
+u: ServidorAppApi at 4111.976408955557: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4111.976408955557: Servidor de banco de dados recebeu uma requisição. Delay: 5.773119453736636
+u: ServidorBancoDeDados at 4117.749528409294: Servidor de Banco de Dados completou.
+u: Source at 4118.542917164203: Nova requisição gerada para o Servidor de aplicação front. Delay: 51.52484850568043
+u: ServidorAppFront at 4118.542917164203: Servidor de Aplicação Front iniciou. Delay: 6.941589682079369
+u: ServidorAppFront at 4125.484506846282: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 4125.484506846282: Servidor de login iniciou. Delay: 15.359691471767542
+u: ServidorAppFront at 4140.844198318049: Servidor de Aplicação Front iniciou. Delay: 7.674168685621098
+u: ServidorAppFront at 4148.51836700367: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4148.51836700367: Servidor de Aplicação API iniciou. Delay: 4.251590886920512
+u: ServidorAppApi at 4152.769957890591: Requisição Enviada para o Sensor 2
+u: SensorPonto at 4152.769957890591: Sensor recebeu uma requisição. Delay: 8.45351626893251
+u: SensorPonto at 4161.223474159524: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4161.223474159524: Servidor de Aplicação API iniciou. Delay: 4.7696024680797535
+u: ServidorAppApi at 4165.993076627604: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4165.993076627604: Servidor de banco de dados recebeu uma requisição. Delay: 5.681932982818083
+u: Source at 4170.067765669883: Nova requisição gerada para o Servidor de aplicação front. Delay: 55.42263531648807
+u: ServidorAppFront at 4170.067765669883: Servidor de Aplicação Front iniciou. Delay: 9.57011298114906
+u: ServidorBancoDeDados at 4171.6750096104215: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4179.637878651031: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4179.637878651031: Servidor de login iniciou. Delay: 12.743713268311922
+u: ServidorAppFront at 4192.381591919343: Servidor de Aplicação Front iniciou. Delay: 7.559625241082378
+u: ServidorAppFront at 4199.941217160425: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4199.941217160425: Servidor de Aplicação API iniciou. Delay: 6.110237536199527
+u: ServidorAppApi at 4206.051454696625: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 4206.051454696625: Sensor recebeu uma requisição. Delay: 7.706363793547799
+u: SensorBiblioteca at 4213.757818490173: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4213.757818490173: Servidor de Aplicação API iniciou. Delay: 4.688608021705958
+u: ServidorAppApi at 4218.4464265118795: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4218.4464265118795: Servidor de banco de dados recebeu uma requisição. Delay: 7.425076236971682
+u: Source at 4225.49040098637: Nova requisição gerada para o Servidor de aplicação front. Delay: 46.23592666088713
+u: ServidorAppFront at 4225.49040098637: Servidor de Aplicação Front iniciou. Delay: 7.194728675684212
+u: ServidorBancoDeDados at 4225.8715027488515: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4232.685129662054: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4232.685129662054: Servidor de login iniciou. Delay: 13.588441924792432
+u: ServidorAppFront at 4246.273571586847: Servidor de Aplicação Front iniciou. Delay: 6.508245653488807
+u: ServidorAppFront at 4252.781817240336: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4252.781817240336: Servidor de Aplicação API iniciou. Delay: 4.430587185881235
+u: ServidorAppApi at 4257.212404426217: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 4257.212404426217: Sensor recebeu uma requisição. Delay: 6.081879136171171
+u: SensorBiblioteca at 4263.294283562388: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4263.294283562388: Servidor de Aplicação API iniciou. Delay: 3.9451703857174287
+u: ServidorAppApi at 4267.239453948106: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4267.239453948106: Servidor de banco de dados recebeu uma requisição. Delay: 3.316655228289801
+u: ServidorBancoDeDados at 4270.556109176396: Servidor de Banco de Dados completou.
+u: Source at 4271.726327647258: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.205178779824216
+u: ServidorAppFront at 4271.726327647258: Servidor de Aplicação Front iniciou. Delay: 8.622425687171168
+u: ServidorAppFront at 4280.348753334429: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 4280.348753334429: Servidor de login iniciou. Delay: 15.52142942785536
+u: ServidorAppFront at 4295.8701827622845: Servidor de Aplicação Front iniciou. Delay: 7.506495805103977
+u: ServidorAppFront at 4303.376678567389: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4303.376678567389: Servidor de Aplicação API iniciou. Delay: 5.440121424183429
+u: ServidorAppApi at 4308.816799991572: Requisição Enviada para o Sensor 2
+u: SensorPonto at 4308.816799991572: Sensor recebeu uma requisição. Delay: 7.251266383258214
+u: SensorPonto at 4316.068066374831: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4316.068066374831: Servidor de Aplicação API iniciou. Delay: 4.651039837245015
+u: ServidorAppApi at 4320.7191062120755: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4320.7191062120755: Servidor de banco de dados recebeu uma requisição. Delay: 4.644545144345524
+u: Source at 4320.931506427082: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.74438744855206
+u: ServidorAppFront at 4320.931506427082: Servidor de Aplicação Front iniciou. Delay: 8.073371309850703
+u: ServidorBancoDeDados at 4325.363651356421: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4329.004877736933: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 4329.004877736933: Servidor de login iniciou. Delay: 15.238661564045767
+u: ServidorAppFront at 4344.243539300979: Servidor de Aplicação Front iniciou. Delay: 7.635876440404663
+u: ServidorAppFront at 4351.879415741384: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4351.879415741384: Servidor de Aplicação API iniciou. Delay: 5.051881350739972
+u: ServidorAppApi at 4356.931297092124: Requisição Enviada para o Sensor 1
+u: SensorLCC at 4356.931297092124: Sensor recebeu uma requisição. Delay: 8.1944916644939
+u: SensorLCC at 4365.125788756618: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4365.125788756618: Servidor de Aplicação API iniciou. Delay: 4.742525761820353
+u: Source at 4368.675893875634: Nova requisição gerada para o Servidor de aplicação front. Delay: 52.28462773837248
+u: ServidorAppFront at 4368.675893875634: Servidor de Aplicação Front iniciou. Delay: 7.991957291036985
+u: ServidorAppApi at 4369.868314518439: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4369.868314518439: Servidor de banco de dados recebeu uma requisição. Delay: 3.991259400812133
+u: ServidorBancoDeDados at 4373.859573919251: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4376.6678511666705: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4376.6678511666705: Servidor de login iniciou. Delay: 16.02319249208324
+u: ServidorAppFront at 4392.691043658754: Servidor de Aplicação Front iniciou. Delay: 10.959961152381279
+u: ServidorAppFront at 4403.651004811135: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4403.651004811135: Servidor de Aplicação API iniciou. Delay: 4.994312945953142
+u: ServidorAppApi at 4408.645317757088: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 4408.645317757088: Sensor recebeu uma requisição. Delay: 6.376531889196027
+u: SensorBiblioteca at 4415.021849646284: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4415.021849646284: Servidor de Aplicação API iniciou. Delay: 7.09300860289755
+u: Source at 4420.960521614006: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.81936922846747
+u: ServidorAppFront at 4420.960521614006: Servidor de Aplicação Front iniciou. Delay: 6.8244034211907465
+u: ServidorAppApi at 4422.114858249181: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4422.114858249181: Servidor de banco de dados recebeu uma requisição. Delay: 6.021716585256494
+u: ServidorAppFront at 4427.784925035197: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4427.784925035197: Servidor de login iniciou. Delay: 14.490561611561327
+u: ServidorBancoDeDados at 4428.136574834438: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4442.2754866467585: Servidor de Aplicação Front iniciou. Delay: 10.50801162276133
+u: ServidorAppFront at 4452.783498269519: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4452.783498269519: Servidor de Aplicação API iniciou. Delay: 4.168727687184272
+u: ServidorAppApi at 4456.952225956704: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 4456.952225956704: Sensor recebeu uma requisição. Delay: 7.781397313745085
+u: SensorBiblioteca at 4464.733623270449: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4464.733623270449: Servidor de Aplicação API iniciou. Delay: 6.773432025749214
+u: ServidorAppApi at 4471.507055296199: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4471.507055296199: Servidor de banco de dados recebeu uma requisição. Delay: 5.366433058704965
+u: Source at 4471.779890842474: Nova requisição gerada para o Servidor de aplicação front. Delay: 52.827146239230366
+u: ServidorAppFront at 4471.779890842474: Servidor de Aplicação Front iniciou. Delay: 7.461254058309372
+u: ServidorBancoDeDados at 4476.873488354904: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4479.241144900783: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4479.241144900783: Servidor de login iniciou. Delay: 17.455164572766574
+u: ServidorAppFront at 4496.69630947355: Servidor de Aplicação Front iniciou. Delay: 7.594980777083827
+u: ServidorAppFront at 4504.291290250634: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4504.291290250634: Servidor de Aplicação API iniciou. Delay: 4.6190490912938245
+u: ServidorAppApi at 4508.910339341928: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 4508.910339341928: Sensor recebeu uma requisição. Delay: 8.15536966033778
+u: SensorBiblioteca at 4517.065709002266: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4517.065709002266: Servidor de Aplicação API iniciou. Delay: 4.713608160965069
+u: ServidorAppApi at 4521.779317163231: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4521.779317163231: Servidor de banco de dados recebeu uma requisição. Delay: 6.264338234650395
+u: Source at 4524.607037081704: Nova requisição gerada para o Servidor de aplicação front. Delay: 46.32104659800745
+u: ServidorAppFront at 4524.607037081704: Servidor de Aplicação Front iniciou. Delay: 5.98051749577359
+u: ServidorBancoDeDados at 4528.043655397882: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4530.587554577478: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 4530.587554577478: Servidor de login iniciou. Delay: 17.51728303431519
+u: ServidorAppFront at 4548.104837611793: Servidor de Aplicação Front iniciou. Delay: 4.742071960876846
+u: ServidorAppFront at 4552.8469095726705: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4552.8469095726705: Servidor de Aplicação API iniciou. Delay: 3.572010226773915
+u: ServidorAppApi at 4556.418919799445: Requisição Enviada para o Sensor 1
+u: SensorLCC at 4556.418919799445: Sensor recebeu uma requisição. Delay: 7.119166676370269
+u: SensorLCC at 4563.538086475815: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4563.538086475815: Servidor de Aplicação API iniciou. Delay: 2.696296990918226
+u: ServidorAppApi at 4566.234383466734: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4566.234383466734: Servidor de banco de dados recebeu uma requisição. Delay: 3.354722021418109
+u: ServidorBancoDeDados at 4569.589105488151: Servidor de Banco de Dados completou.
+u: Source at 4570.928083679712: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.67345008147922
+u: ServidorAppFront at 4570.928083679712: Servidor de Aplicação Front iniciou. Delay: 7.025258239811454
+u: ServidorAppFront at 4577.953341919523: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4577.953341919523: Servidor de login iniciou. Delay: 15.231910664100688
+u: ServidorAppFront at 4593.185252583624: Servidor de Aplicação Front iniciou. Delay: 6.708982628673049
+u: ServidorAppFront at 4599.894235212297: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4599.894235212297: Servidor de Aplicação API iniciou. Delay: 4.310753491464968
+u: ServidorAppApi at 4604.204988703762: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 4604.204988703762: Sensor recebeu uma requisição. Delay: 6.500721993281226
+u: SensorBiblioteca at 4610.705710697043: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4610.705710697043: Servidor de Aplicação API iniciou. Delay: 4.087112862105082
+u: ServidorAppApi at 4614.792823559148: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4614.792823559148: Servidor de banco de dados recebeu uma requisição. Delay: 5.30117603232806
+u: ServidorBancoDeDados at 4620.093999591476: Servidor de Banco de Dados completou.
+u: Source at 4621.601533761191: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.0798653278049
+u: ServidorAppFront at 4621.601533761191: Servidor de Aplicação Front iniciou. Delay: 6.234683313104233
+u: ServidorAppFront at 4627.836217074295: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 4627.836217074295: Servidor de login iniciou. Delay: 13.143685716518073
+u: ServidorAppFront at 4640.979902790813: Servidor de Aplicação Front iniciou. Delay: 9.528721575456181
+u: ServidorAppFront at 4650.508624366269: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4650.508624366269: Servidor de Aplicação API iniciou. Delay: 3.7517325997542343
+u: ServidorAppApi at 4654.260356966023: Requisição Enviada para o Sensor 1
+u: SensorLCC at 4654.260356966023: Sensor recebeu uma requisição. Delay: 8.413162819177701
+u: SensorLCC at 4662.673519785201: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4662.673519785201: Servidor de Aplicação API iniciou. Delay: 6.080969392551248
+u: ServidorAppApi at 4668.7544891777525: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4668.7544891777525: Servidor de banco de dados recebeu uma requisição. Delay: 4.588503264903457
+u: Source at 4670.681399088996: Nova requisição gerada para o Servidor de aplicação front. Delay: 47.519523648534154
+u: ServidorAppFront at 4670.681399088996: Servidor de Aplicação Front iniciou. Delay: 10.365467746511442
+u: ServidorBancoDeDados at 4673.3429924426555: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4681.046866835507: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4681.046866835507: Servidor de login iniciou. Delay: 15.359691471767542
+u: ServidorAppFront at 4696.406558307274: Servidor de Aplicação Front iniciou. Delay: 10.05515127147746
+u: ServidorAppFront at 4706.461709578752: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4706.461709578752: Servidor de Aplicação API iniciou. Delay: 6.672638284236301
+u: ServidorAppApi at 4713.134347862988: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 4713.134347862988: Sensor recebeu uma requisição. Delay: 6.125136476963422
+u: Source at 4718.20092273753: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.75789548205525
+u: ServidorAppFront at 4718.20092273753: Servidor de Aplicação Front iniciou. Delay: 6.689774274845874
+u: SensorBiblioteca at 4719.259484339951: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4719.259484339951: Servidor de Aplicação API iniciou. Delay: 6.453211400425866
+u: ServidorAppFront at 4724.890697012376: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4724.890697012376: Servidor de login iniciou. Delay: 15.52142942785536
+u: ServidorAppApi at 4725.712695740377: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4725.712695740377: Servidor de banco de dados recebeu uma requisição. Delay: 3.8906972523083407
+u: ServidorBancoDeDados at 4729.603392992685: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4740.412126440232: Servidor de Aplicação Front iniciou. Delay: 7.622544583128754
+u: ServidorAppFront at 4748.034671023361: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4748.034671023361: Servidor de Aplicação API iniciou. Delay: 4.073530504858456
+u: ServidorAppApi at 4752.108201528219: Requisição Enviada para o Sensor 4
+u: SensorBiblioteca at 4752.108201528219: Sensor recebeu uma requisição. Delay: 5.841422171098755
+u: SensorBiblioteca at 4757.949623699318: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4757.949623699318: Servidor de Aplicação API iniciou. Delay: 4.733098715134746
+u: ServidorAppApi at 4762.682722414453: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4762.682722414453: Servidor de banco de dados recebeu uma requisição. Delay: 5.338941163543102
+u: ServidorBancoDeDados at 4768.021663577996: Servidor de Banco de Dados completou.
+u: Source at 4768.958818219586: Nova requisição gerada para o Servidor de aplicação front. Delay: 48.55030875523813
+u: ServidorAppFront at 4768.958818219586: Servidor de Aplicação Front iniciou. Delay: 8.200374162588751
+u: ServidorAppFront at 4777.159192382174: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 4777.159192382174: Servidor de login iniciou. Delay: 11.582204599927916
+u: ServidorAppFront at 4788.741396982102: Servidor de Aplicação Front iniciou. Delay: 9.552292493843359
+u: ServidorAppFront at 4798.293689475945: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4798.293689475945: Servidor de Aplicação API iniciou. Delay: 5.141685929141082
+u: ServidorAppApi at 4803.435375405086: Requisição Enviada para o Sensor 2
+u: SensorPonto at 4803.435375405086: Sensor recebeu uma requisição. Delay: 8.697998052228186
+u: SensorPonto at 4812.1333734573145: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4812.1333734573145: Servidor de Aplicação API iniciou. Delay: 6.097636548781616
+u: Source at 4817.509126974824: Nova requisição gerada para o Servidor de aplicação front. Delay: 44.77011061318362
+u: ServidorAppFront at 4817.509126974824: Servidor de Aplicação Front iniciou. Delay: 9.130776275006912
+u: ServidorAppApi at 4818.231010006096: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4818.231010006096: Servidor de banco de dados recebeu uma requisição. Delay: 4.351678366065233
+u: ServidorBancoDeDados at 4822.582688372161: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4826.63990324983: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4826.63990324983: Servidor de login iniciou. Delay: 15.238661564045767
+u: ServidorAppFront at 4841.878564813876: Servidor de Aplicação Front iniciou. Delay: 10.00565814673339
+u: ServidorAppFront at 4851.88422296061: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4851.88422296061: Servidor de Aplicação API iniciou. Delay: 5.799579572062252
+u: ServidorAppApi at 4857.683802532672: Requisição Enviada para o Sensor 3
+u: SensorLSD at 4857.683802532672: Sensor recebeu uma requisição. Delay: 5.547051118999644
+u: Source at 4862.279237588007: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.62029087915884
+u: ServidorAppFront at 4862.279237588007: Servidor de Aplicação Front iniciou. Delay: 7.832264751142462
+u: SensorLSD at 4863.230853651672: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4863.230853651672: Servidor de Aplicação API iniciou. Delay: 6.418214476297224
+u: ServidorAppApi at 4869.649068127969: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4869.649068127969: Servidor de banco de dados recebeu uma requisição. Delay: 2.6611223632547762
+u: ServidorAppFront at 4870.111502339149: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4870.111502339149: Servidor de login iniciou. Delay: 17.51728303431519
+u: ServidorBancoDeDados at 4872.310190491224: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4887.628785373465: Servidor de Aplicação Front iniciou. Delay: 6.9417965195724385
+u: ServidorAppFront at 4894.570581893037: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4894.570581893037: Servidor de Aplicação API iniciou. Delay: 4.881393268088822
+u: ServidorAppApi at 4899.451975161126: Requisição Enviada para o Sensor 3
+u: SensorLSD at 4899.451975161126: Sensor recebeu uma requisição. Delay: 4.1856418089603356
+u: SensorLSD at 4903.637616970086: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4903.637616970086: Servidor de Aplicação API iniciou. Delay: 4.2517371431144655
+u: ServidorAppApi at 4907.8893541132: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4907.8893541132: Servidor de banco de dados recebeu uma requisição. Delay: 5.277402514324452
+u: Source at 4912.899528467166: Nova requisição gerada para o Servidor de aplicação front. Delay: 49.12487139926345
+u: ServidorAppFront at 4912.899528467166: Servidor de Aplicação Front iniciou. Delay: 9.695744127679035
+u: ServidorBancoDeDados at 4913.166756627525: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4922.5952725948455: Servidor de Login Google selecionado
+u: ServidorLoginGoogle at 4922.5952725948455: Servidor de login iniciou. Delay: 13.143685716518073
+u: ServidorAppFront at 4935.738958311364: Servidor de Aplicação Front iniciou. Delay: 9.142807411534434
+u: ServidorAppFront at 4944.881765722898: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4944.881765722898: Servidor de Aplicação API iniciou. Delay: 6.199072171839113
+u: ServidorAppApi at 4951.080837894738: Requisição Enviada para o Sensor 3
+u: SensorLSD at 4951.080837894738: Sensor recebeu uma requisição. Delay: 3.5623900549894114
+u: SensorLSD at 4954.643227949727: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 4954.643227949727: Servidor de Aplicação API iniciou. Delay: 5.808086870286244
+u: ServidorAppApi at 4960.451314820013: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 4960.451314820013: Servidor de banco de dados recebeu uma requisição. Delay: 4.608630591939757
+u: Source at 4962.02439986643: Nova requisição gerada para o Servidor de aplicação front. Delay: 50.31613212023648
+u: ServidorAppFront at 4962.02439986643: Servidor de Aplicação Front iniciou. Delay: 7.728985091008561
+u: ServidorBancoDeDados at 4965.059945411953: Servidor de Banco de Dados completou.
+u: ServidorAppFront at 4969.753384957438: Servidor de login Facebook selecionado
+u: ServidorLoginFacebook at 4969.753384957438: Servidor de login iniciou. Delay: 15.377776409930968
+u: ServidorAppFront at 4985.13116136737: Servidor de Aplicação Front iniciou. Delay: 6.443645223008743
+u: ServidorAppFront at 4991.574806590378: Enviando requisição para Servidor de Aplicação API
+u: ServidorAppApi at 4991.574806590378: Servidor de Aplicação API iniciou. Delay: 4.8083635200494985
+u: ServidorAppApi at 4996.383170110427: Requisição Enviada para o Sensor 1
+u: SensorLCC at 4996.383170110427: Sensor recebeu uma requisição. Delay: 6.115794584848663
+u: SensorLCC at 5002.498964695276: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 5002.498964695276: Servidor de Aplicação API iniciou. Delay: 3.8994909832574054
+u: ServidorAppApi at 5006.3984556785335: Enviando requisição para Servidor de Banco de Dados
+u: ServidorBancoDeDados at 5006.3984556785335: Servidor de banco de dados recebeu uma requisição. Delay: 5.141378582143981
+u: ServidorBancoDeDados at 5011.539834260678: Servidor de Banco de Dados completou.
+u: ServidorLoginFacebook at 5012.340531986666: Servidor de login iniciou. Delay: 16.30621569493903
+u: ServidorLoginGoogle at 5012.340531986666: Servidor de login iniciou. Delay: 11.582204599927916
+u: SensorPonto at 5012.340531986666: Sensor recebeu uma requisição. Delay: 6.129462281573989
+u: SensorPonto at 5012.340531986666: Enviando resposta para o Servidor de Aplicação API
+u: ServidorAppApi at 5012.340531986666: Servidor de Aplicação API iniciou. Delay: 5.187551817199484
+u: ServidorAppFront at 5012.340531986666: Servidor de Aplicação Front iniciou. Delay: 8.26523832353123
+u: SensorBiblioteca at 5012.340531986666: Sensor recebeu uma requisição. Delay: 6.573895983395011
+u: SensorBiblioteca at 5012.340531986666: Enviando resposta para o Servidor de Aplicação API
+u: SensorLCC at 5012.340531986666: Sensor recebeu uma requisição. Delay: 6.532496504366984
+u: SensorLCC at 5012.340531986666: Enviando resposta para o Servidor de Aplicação API
+u: ServidorBancoDeDados at 5012.340531986666: Servidor de banco de dados recebeu uma requisição. Delay: 4.969057517726199
+u: ServidorBancoDeDados at 5012.340531986666: Servidor de Banco de Dados completou.
+u: SensorLSD at 5012.340531986666: Sensor recebeu uma requisição. Delay: 6.378333875276422
+u: SensorLSD at 5012.340531986666: Enviando resposta para o Servidor de Aplicação API

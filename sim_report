@@ -1,0 +1,459 @@
+############################################################
+#                                                          #
+#                    SIMULATION REPORT                     #
+#                                                          #
+############################################################
+
+Version: SimJava 2.0
+
+Simulation date:         29 de Junho de 2018
+Simulation start time:   16h50min34s BRT
+Simulation end time:     16h50min34s BRT
+
+############################################################
+#            Overall simulation run information            #
+############################################################
+
+Total simulated time:    5012.340531986666
+Total transient time:    0.0
+Total steady state time: 5012.340531986666
+Transient condition:     None
+Termination condition:   None
+Output analysis method:  None
+
+############################################################
+#               Simulation run measurements                #
+############################################################
+
+--------------------- ServidorAppFront ---------------------
+
+- Arrival rate
+
+Sample mean:          0.039901518806171175
+Event count:          200
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Residence time
+
+Sample mean:          7.942001631509689
+Sample variance:      2.166510677345003
+Sample std deviation: 1.4719071564962931
+Maximum:              11.543914800649418
+Minimum:              3.863608979888795
+
+- Service time
+
+Sample mean:          7.942001631509689
+Sample variance:      2.166510677345003
+Sample std deviation: 1.4719071564962931
+Maximum:              11.543914800649418
+Minimum:              3.863608979888795
+
+- Throughput
+
+Sample mean:          0.039901518806171175
+Event count:          200
+
+- Utilisation
+
+Sample mean:          0.31689792745832607
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+------------------ ServidorLoginFacebook -------------------
+
+- Arrival rate
+
+Sample mean:          0.01017488729557365
+Event count:          51
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Residence time
+
+Sample mean:          15.192317849881785
+Sample variance:      3.2582336289801606
+Sample std deviation: 1.8050577910361099
+Maximum:              19.29759540824682
+Minimum:              10.903410536615638
+
+- Service time
+
+Sample mean:          15.192317849881785
+Sample variance:      3.2582336289801606
+Sample std deviation: 1.8050577910361099
+Maximum:              19.29759540824682
+Minimum:              10.903410536615638
+
+- Throughput
+
+Sample mean:          0.01017488729557365
+Event count:          51
+
+- Utilisation
+
+Sample mean:          0.15458012188107897
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+------------------- ServidorLoginGoogle --------------------
+
+- Arrival rate
+
+Sample mean:          0.009775872107511938
+Event count:          49
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Residence time
+
+Sample mean:          15.262208761920675
+Sample variance:      3.116771180298391
+Sample std deviation: 1.765437957079883
+Maximum:              19.29759540824682
+Minimum:              10.903410536615638
+
+- Service time
+
+Sample mean:          15.262208761920675
+Sample variance:      3.116771180298391
+Sample std deviation: 1.765437957079883
+Maximum:              19.29759540824682
+Minimum:              10.903410536615638
+
+- Throughput
+
+Sample mean:          0.009775872107511938
+Event count:          49
+
+- Utilisation
+
+Sample mean:          0.14920140093468465
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+---------------------- ServidorAppApi ----------------------
+
+- Arrival rate
+
+Sample mean:          0.039901518806171175
+Event count:          200
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Residence time
+
+Sample mean:          4.958988960342775
+Sample variance:      1.0832553386724786
+Sample std deviation: 1.0407955316355266
+Maximum:              7.505926187486693
+Minimum:              2.075129860040306
+
+- Service time
+
+Sample mean:          4.958988960342775
+Sample variance:      1.0832553386724786
+Sample std deviation: 1.0407955316355266
+Maximum:              7.505926187486693
+Minimum:              2.075129860040306
+
+- Throughput
+
+Sample mean:          0.039901518806171175
+Event count:          200
+
+- Utilisation
+
+Sample mean:          0.19787119126071248
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+------------------- ServidorBancoDeDados -------------------
+
+- Arrival rate
+
+Sample mean:          0.019950759403085588
+Event count:          100
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Residence time
+
+Sample mean:          5.055188536801391
+Sample variance:      1.0720796344668557
+Sample std deviation: 1.0354127845776562
+Maximum:              7.481217865819417
+Minimum:              2.6348329705556353
+
+- Service time
+
+Sample mean:          5.055188536801391
+Sample variance:      1.0720796344668557
+Sample std deviation: 1.0354127845776562
+Maximum:              7.481217865819417
+Minimum:              2.6348329705556353
+
+- Throughput
+
+Sample mean:          0.019950759403085588
+Event count:          100
+
+- Utilisation
+
+Sample mean:          0.10085485023496082
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+------------------------ SensorLCC -------------------------
+
+- Arrival rate
+
+Sample mean:          0.005187197444802253
+Event count:          26
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Residence time
+
+Sample mean:          6.154938487237217
+Sample variance:      2.5402260649291977
+Sample std deviation: 1.593808666349006
+Maximum:              9.508971957044196
+Minimum:              2.65514870968218
+
+- Service time
+
+Sample mean:          6.154938487237217
+Sample variance:      2.5402260649291977
+Sample std deviation: 1.593808666349006
+Maximum:              9.508971957044196
+Minimum:              2.65514870968218
+
+- Throughput
+
+Sample mean:          0.005187197444802253
+Event count:          26
+
+- Utilisation
+
+Sample mean:          0.03192688119391194
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+----------------------- SensorPonto ------------------------
+
+- Arrival rate
+
+Sample mean:          0.004987689850771397
+Event count:          25
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Residence time
+
+Sample mean:          6.174977063429526
+Sample variance:      3.3075030254338693
+Sample std deviation: 1.8186541797257305
+Maximum:              9.923149913545558
+Minimum:              2.2603425701106516
+
+- Service time
+
+Sample mean:          6.174977063429526
+Sample variance:      3.3075030254338693
+Sample std deviation: 1.8186541797257305
+Maximum:              9.923149913545558
+Minimum:              2.2603425701106516
+
+- Throughput
+
+Sample mean:          0.004987689850771397
+Event count:          25
+
+- Utilisation
+
+Sample mean:          0.030798870428013613
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+------------------------ SensorLSD -------------------------
+
+- Arrival rate
+
+Sample mean:          0.0033916290985245502
+Event count:          17
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Residence time
+
+Sample mean:          4.6826042652041355
+Sample variance:      3.2436124550284795
+Sample std deviation: 1.801003180182778
+Maximum:              8.68024083652881
+Minimum:              1.4918903709012739
+
+- Service time
+
+Sample mean:          4.6826042652041355
+Sample variance:      3.2436124550284795
+Sample std deviation: 1.801003180182778
+Maximum:              8.68024083652881
+Minimum:              1.4918903709012739
+
+- Throughput
+
+Sample mean:          0.0033916290985245502
+Event count:          17
+
+- Utilisation
+
+Sample mean:          0.015881656882741516
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+--------------------- SensorBiblioteca ---------------------
+
+- Arrival rate
+
+Sample mean:          0.0063842430089873885
+Event count:          32
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Residence time
+
+Sample mean:          6.2384090292006
+Sample variance:      1.2418825446379742
+Sample std deviation: 1.1143978394801266
+Maximum:              8.481217865819417
+Minimum:              3.6348329705556353
+
+- Service time
+
+Sample mean:          6.2384090292006
+Sample variance:      1.2418825446379742
+Sample std deviation: 1.1143978394801266
+Maximum:              8.481217865819417
+Minimum:              3.6348329705556353
+
+- Throughput
+
+Sample mean:          0.0063842430089873885
+Event count:          32
+
+- Utilisation
+
+Sample mean:          0.03982751923187773
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
